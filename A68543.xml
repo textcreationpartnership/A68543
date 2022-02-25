@@ -1,0 +1,2639 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Death repeal'd by a thankfull memoriall sent from Christ-Church in Oxford celebrating the noble deserts of the Right Honourable, Paule, late Lord Vis-count Bayning of Sudbury. Who changed his earthly honours Iune the 11. 1638.</title>
+            <author>Christ Church (University of Oxford)</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1638</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 72 KB of XML-encoded text transcribed from 28 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A68543</idno>
+            <idno type="STC">STC 19042</idno>
+            <idno type="STC">ESTC S113861</idno>
+            <idno type="EEBO-CITATION">99849090</idno>
+            <idno type="PROQUEST">99849090</idno>
+            <idno type="VID">14222</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A68543)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 14222)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 1126:18, 1324:8)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Death repeal'd by a thankfull memoriall sent from Christ-Church in Oxford celebrating the noble deserts of the Right Honourable, Paule, late Lord Vis-count Bayning of Sudbury. Who changed his earthly honours Iune the 11. 1638.</title>
+                  <author>Christ Church (University of Oxford)</author>
+               </titleStmt>
+               <extent>[4], 42 [i.e. 50], [2] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Leonard Lichfield printer to the Vniversity, for Francis Bowman,</publisher>
+                  <pubPlace>Oxford :</pubPlace>
+                  <date>M.D.C.XXXVIII. [1638]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>In English and Latin verse.</note>
+                  <note>The last leaf is blank.</note>
+                  <note>P. 49 and 50 misnumbered 43 and 42.</note>
+                  <note>Identified as STC 1652 on UMI microfilm reel 1126.</note>
+                  <note>Reproductions of the originals in the Bodleian Library and the Henry E. Huntington Library and Art Gallery.</note>
+                  <note>Appears at reel 1126 (Bodleian Library copy) and at reel 1324 (Henry E. Huntington Library and Art Gallery copy).</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Bayning of Sudbury, Paul Bayning, --  Viscount, 1615 or 16-1638 --  Poetry --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-05</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-08</date>
+            <label>Simon Charles</label>Sampled and proofread</change>
+         <change>
+            <date>2013-08</date>
+            <label>Simon Charles</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text>
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:14222:1"/>
+            <pb facs="tcp:14222:1" rendition="simple:additions"/>
+            <p>DEATH REPEAL'D BY A THANKFVLL MEMORIALL Sent from CHRIST-CHURCH in OXFORD, CELEBRATING THE NOBLE DESERTS OF the Right Honourable, PAVLE, Late Lord VIS-COUNT BAYNING of SUDBURY. Who changed his Earthly Honours Iune the 11. 1638.</p>
+            <p>
+               <hi>OXFORD,</hi> Printed by <hi>Leonard Lichfield</hi> Printer to the Vniverſity, for <hi>Francis Bowman.</hi> M.D.C.XXXVIII.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:14222:2"/>
+            <pb facs="tcp:14222:2"/>
+            <head>TO THE RIGHT HONOVRABLE THE LADY PENELOPE DOWAGER of the late VIS-COVNT BAYNING.</head>
+            <lg>
+               <l>
+                  <seg rend="decorInit">G</seg>REAT Lady, Humble partners of like griefe</l>
+               <l>In bringing Comfort may deſerve beliefe,</l>
+               <l>Becauſe they Feele, and Feyne not: Thus we ſay</l>
+               <l>Vnto Our ſelves, Lord <hi>Bayning,</hi> though away,</l>
+               <l>Js ſtill of <hi>Chriſt-Church;</hi> ſomewhat out of ſight,</l>
+               <l>As when he travel'd, or did bid good night,</l>
+               <pb facs="tcp:14222:3"/>
+               <l>And was not ſeen long after; now he ſtands</l>
+               <l>Remov'd in Worlds, as heretofore in Lands;</l>
+               <l>But is not Loſt. The ſpight of Death can never</l>
+               <l>Divide the Christian, though the Man it ſever.</l>
+            </lg>
+            <lg>
+               <l>The like we ſay to You: He's ſtill at home,</l>
+               <l>Though out of reach; as in ſome upper roome,</l>
+               <l>Or ſtudy: for His Place is very high,</l>
+               <l>His Thought is Viſion; now moſt properly</l>
+               <l>Return'd he's Yours as ſure, as e're hath been</l>
+               <l>The Iewell in Your Cask, ſafe though unſeen.</l>
+            </lg>
+            <lg>
+               <l>You know that Friends have Eares as well as Eyes,</l>
+               <l>We Heare, Hee's well and Living, that Well dies.</l>
+            </lg>
+         </div>
+      </front>
+      <body>
+         <div type="memorial">
+            <pb n="1" facs="tcp:14222:3"/>
+            <div xml:lang="eng" type="poem__lamentation">
+               <head>ON THE DEATH OF THE RIGHT HONOVRABLE THE LORD VISCOVNT BAYNING.</head>
+               <lg>
+                  <l>
+                     <seg rend="decorInit">T</seg>Hough after Death, Thanks leſſen into Praiſe,</l>
+                  <l>And Worthies be not crown'd with gold, but bayes;</l>
+                  <l>Shall we not thank? To praiſe Thee all agree;</l>
+                  <l>We Debtors muſt out doe it, heartily.</l>
+                  <l>Deſerv'd Nobility of True Deſcent,</l>
+                  <l>Though not ſo Old in Thee grew Ancient:</l>
+                  <l>We number not the Tree of Branched Birth,</l>
+                  <l>But Genealogie of Vertue, ſpreading forth</l>
+                  <l>To many births in value. Piety,</l>
+                  <l>True Valour, Bounty, Meekneſſe, Modeſty,</l>
+                  <l>Theſe noble off-ſprings ſwell Thy Name as much,</l>
+                  <l>As <hi>Richards, Edwards,</hi> three, foure, twenty ſuch:</l>
+                  <l>For in thy Perſon's linage ſurnam'd are</l>
+                  <l>The great, the good, the wiſe, the juſt, the faire.</l>
+                  <l>One of theſe ſtiles innobles a whole ſtemme;</l>
+                  <pb n="2" facs="tcp:14222:4"/>
+                  <l>If all be found in One, what race like Him!</l>
+                  <l>Long ſtayres of birth, unleſſe they likewiſe grow</l>
+                  <l>To higher vertue, muſt deſcend more low.</l>
+                  <l>Whe<g ref="char:cmbAbbrStroke">̄</g> water comes through numerous veins of lead,</l>
+                  <l>'Tis water ſtill; Thy blood from One pipes head</l>
+                  <l>Grew <hi>Aqua-vitae</hi> ſtreight, with ſpirits fill'd,</l>
+                  <l>As not traduc'd, but rais'd, ſublim'd, diſtill'd.</l>
+                  <l>Nobility farre ſpread, I may behold,</l>
+                  <l>Like the expanded skie, or diſſolv'd gold,</l>
+                  <l>Much rarified; I ſee't contracted here</l>
+                  <l>Into a ſtarre, the ſtrength of all the ſpheare;</l>
+                  <l>Extracted like th' Exlixir from the Mine,</l>
+                  <l>And highten'd ſo, that 'tis too ſoone divine.</l>
+               </lg>
+               <lg>
+                  <l>Divinity continues not beneath;</l>
+                  <l>Alas nor He: But though He paſſe by death,</l>
+                  <l>He that for many liv'd, gaines many lives</l>
+                  <l>After hee's dead: Each friend, and ſervant ſtrives</l>
+                  <l>To give him breath in praiſe; this Hoſpital,</l>
+                  <l>That Priſon, Colledge, Church, muſt needs recall</l>
+                  <l>To mind their Patron; whoſe rich legacies</l>
+                  <l>In forreigne lands, and under other skies</l>
+                  <l>To them aſſign'd, ſhew that his heart did even</l>
+                  <l>In France love England, as in England Heaven.</l>
+                  <l>Heav'n well perceiv'd this double pious love,</l>
+                  <l>Both to his Country here, and that above:</l>
+                  <l>Therefore the day, that ſaw Him landed here,</l>
+                  <l>Hath ſeen him landed in his Haven there;</l>
+                  <l>The ſelfe-ſame day (but two yeares interpos'd)</l>
+                  <l>Saw Sun and Him round ſhining twice and clos'd.</l>
+               </lg>
+               <lg>
+                  <l>No Citizen ſo covetous could be</l>
+                  <pb n="3" facs="tcp:14222:4"/>
+                  <l>Of getting wealth, as of beſtowing, He;</l>
+                  <l>His Body, and Eſtate went as they came,</l>
+                  <l>Stript of Appendix Both, and left the ſame</l>
+                  <l>But in th' Originall; Neceſſity</l>
+                  <l>Deveſted one, the other Charity.</l>
+                  <l>It coſt him more to cloth his ſoule in death,</l>
+                  <l>Then e're to cloth his fleſh for ſhort-liv'd breath;</l>
+                  <l>And whereas Lawes exact from Niggards dead</l>
+                  <l>A Portion for the Poore, they now are ſaid</l>
+                  <l>To moderate His bounty: never ſuch</l>
+                  <l>Was knowne but once, that men ſhould give too much:</l>
+                  <l>A Tabernacle then was built, and now</l>
+                  <l>The like in heav'n is purchas'd: Learn you how;</l>
+                  <l>Partly by building Men, and partly by</l>
+                  <l>Erecting walls, by new-found Chymiſtry,</l>
+                  <l>Turning of Gold to Stones. Our Chriſt-Church Pile,</l>
+                  <l>Great <hi>Henrie's</hi> monument, ſhall grow a while</l>
+                  <l>With <hi>Bayning's</hi> Treaſure; who away hath took,</l>
+                  <l>Like thoſe at <hi>Westminſter,</hi> to fill a nook</l>
+                  <l>'Mongſt beds of Kings. Thus ſpeak, ſpeak while we may</l>
+                  <l>For Stones will ſpeak when We are huſh'd in Clay.</l>
+               </lg>
+               <closer>
+                  <signed>W. STRODE D.D. Canon of Ch. <gap reason="illegible" resp="#OXF" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>.</signed>
+               </closer>
+            </div>
+            <div type="poem__lamentation">
+               <div xml:lang="lat" type="version">
+                  <head>In obitum Illuſtriſſimi Vicecomitis BAYNING</head>
+                  <l>
+                     <hi>QVid voveat dulci nutricula majus Alumno,</hi>
+                  </l>
+                  <l>
+                     <hi>Quam bona Fortunae, Corporis, at<expan>
+                           <am>
+                              <g ref="char:abque"/>
+                           </am>
+                           <ex>que</ex>
+                        </expan> Animi?</hi>
+                  </l>
+                  <pb n="4" facs="tcp:14222:5"/>
+                  <l>
+                     <hi>En haec Heroe hoc ſimul omnia; quid petat ultra?</hi>
+                  </l>
+                  <l>
+                     <hi>Quid potius? Coelum: quod novus hoſpes habet.</hi>
+                  </l>
+               </div>
+               <div xml:lang="eng" type="version">
+                  <head>The ſame Engliſhed.</head>
+                  <l>Can Nurſe chooſe in her ſweet babe more to find,</l>
+                  <l>Then goods of Fortune, Body, and of Mind?</l>
+                  <l>Loe here at once all this: what greater bliſſe</l>
+                  <l>Can'ſt hope or wiſh? Heaven; why there he is.</l>
+               </div>
+               <closer>
+                  <signed>ROB. BVRTON. of Ch. Ch.</signed>
+               </closer>
+            </div>
+            <div xml:lang="eng" type="poem__lamentation">
+               <head>On the Death of the Right Honourable the Lord Viſcount BAYNING.</head>
+               <lg>
+                  <l>SO when an haſty vigour doth diſcloſe</l>
+                  <l>An early flame in the more forward Roſe,</l>
+                  <l>That Rareneſſe doth deſtroy it: Wonders owe</l>
+                  <l>This to themſelves ſtill, that they cannot grow.</l>
+                  <l>Such Ripeneſſe was His Fate: Thus to appeare</l>
+                  <l>At firſt, was not hereafter to ſtay here.</l>
+                  <l>Who thither firſt ſteps, whither others tend,</l>
+                  <l>When He ſets forth is at the Iourney's end.</l>
+               </lg>
+               <lg>
+                  <l>But as Short things moſt vigour have, and we</l>
+                  <l>Find Force the Recompence of Brevity;</l>
+                  <l>So was it here: Compactedneſſe gave Strength,</l>
+                  <l>The Life was Cloſe, though not ſpun out at Length.</l>
+                  <l>Nothing lay idle in't: Experience Rules,</l>
+                  <l>Men ſtrengthn'd Books, &amp; Cities ſeaſon'd Schools.</l>
+               </lg>
+               <pb n="5" facs="tcp:14222:5"/>
+               <lg>
+                  <l>Nor did he iſſue forth to come Home thence</l>
+                  <l>(As ſome) leſſe Man, then they goe out from hence:</l>
+                  <l>Who think new Ayre new Vices may create,</l>
+                  <l>And ſtamp Sinne Lawful in Another State;</l>
+                  <l>Who make Exotick Cuſtomes Native Arts,</l>
+                  <l>And Looſe Italian Vices Engliſh Parts:</l>
+                  <l>He naturaliz'd Perfections only; gain'd</l>
+                  <l>A round and ſolid mind, ſeverely train'd,</l>
+                  <l>And manag'd his deſires; brought oft checkt Senſe</l>
+                  <l>Vnto the ſway of, Reaſon comming thence</l>
+                  <l>His owne acquaintance, morgag'd unto none,</l>
+                  <l>But was himſelfe His owne poſſeſſion.</l>
+                  <l>Thus ſtarres by journying ſtill, gaine, and diſpenſe,</l>
+                  <l>Drawing at once, and ſhedding influence:</l>
+                  <l>Thus Spheares by Regular Motion doe encreaſe</l>
+                  <l>Their Tunes, and bring their Diſcords into Peace.</l>
+               </lg>
+               <lg>
+                  <l>Hence knew He his owne value, ne're put forth</l>
+                  <l>Honour for Merit; Pow'r inſtead of Worth:</l>
+                  <l>Nor, when He poyz'd himſelfe, would He prevaile</l>
+                  <l>By Wealth, and make his Mannors turne the ſcale.</l>
+                  <l>Deſert was only ballanc'd; nor could we</l>
+                  <l>Say my Lord's Rents were only Weight, not He:</l>
+                  <l>Only one ſlight he had; from being Small</l>
+                  <l>Vnto himſelfe, He came Great unto all:</l>
+                  <l>But Great by no mans Ruine: For who will</l>
+                  <l>Say that his Seat e're made the next Seate ill?</l>
+                  <l>No Neighb'ring-village was unpeopled here</l>
+                  <l>'Cauſe it durſt bound a Noble Eye too neere.</l>
+                  <l>Who could e're ſay my Lord, and the next Marſh</l>
+                  <l>Made frequent Herriots? or that any harſh</l>
+                  <pb n="6" facs="tcp:14222:6"/>
+                  <l>Oppreſſive uſage made Young Lives ſoone fall?</l>
+                  <l>Or who could His ſeven thouſ and bad Ayre call?</l>
+                  <l>He bleſſings ſhed: Men knew not to whom more,</l>
+                  <l>The Sun, or Him, they might impute their ſtore.</l>
+                  <l>No rude exaction, or licentious times</l>
+                  <l>Made his Revenewes Others, or His Crimes:</l>
+                  <l>Nor are his Legacies poore-mens preſent teares,</l>
+                  <l>Or doe they for the future raiſe their feares.</l>
+                  <l>No ſuch contrivance here as to profeſſe</l>
+                  <l>Bounty, and with Large Miſeries feed the Leſſe;</l>
+                  <l>Fat ſome with their owne almes; beſtow, and pill;</l>
+                  <l>And Common Hungers with Great Famines fill,</l>
+                  <l>Making an Hundred Wretches endow Tenne,</l>
+                  <l>Taking the Field, and giving a Sheafe then:</l>
+                  <l>As Robbers, whom they ſpoile, perhaps will lend</l>
+                  <l>Small ſummes to helpe them to their journey's end.</l>
+                  <l>All was untainted here, and th' Author ſuch,</l>
+                  <l>That every gift from Him grew twice as much.</l>
+               </lg>
+               <lg>
+                  <l>We, who erewhile did boaſt his preſence, doe</l>
+                  <l>Now boaſt a ſecond grace, his bounty too;</l>
+                  <l>Bounty, was judgment here: for he beſtowes</l>
+                  <l>Not who diſperſeth, but who giues and knowes.</l>
+                  <l>And what more wiſe deſigne, then to renew,</l>
+                  <l>And dreſſe the breſt, from which he knowledge drew!</l>
+                  <l>Thus pious men, ere their departure, firſt</l>
+                  <l>Would crown the fountain which had quencht their thirſt.</l>
+                  <l>Hence ſtrive we all his memory to engroſſe,</l>
+                  <l>Our Common Love before, but now Our Loſſe.</l>
+               </lg>
+               <closer>
+                  <signed>W. CARTWRIGHT of Ch. Ch.</signed>
+               </closer>
+            </div>
+            <div xml:lang="eng" type="poem__lamentation">
+               <pb n="7" facs="tcp:14222:6"/>
+               <head>Vpon the Death of the Right Honourable, the Lord Viſcount BAYNING.</head>
+               <lg>
+                  <l>O Had He been at Rome again, for there</l>
+                  <l>The Mercy of his Sickneſſe did him ſpare;</l>
+                  <l>Acknowledging this Law, that 'tis but juſt</l>
+                  <l>The place which gave him breath, ſhould make him duſt:</l>
+                  <l>That as we have a Native ſoile, ſo we</l>
+                  <l>Ought not to beare Forreine Mortality.</l>
+                  <l>Though He was only diſtant then from's grave</l>
+                  <l>Some ſtore of Miles, not Years, and we can have</l>
+                  <l>No worſe then Abſence, whether in the Tombe</l>
+                  <l>He lye, or in a Climate live from home:</l>
+                  <l>Yet had He been, though from our ſelves, remov'd</l>
+                  <l>To any diſtance, if from death beſtow'd,</l>
+                  <l>We would have buried Envy, bin content</l>
+                  <l>His preſence was to any people lent,</l>
+                  <l>Bin glad ſome time was ſtill to come, though ſmall,</l>
+                  <l>And could not long rejourne his funerall.</l>
+               </lg>
+               <lg>
+                  <l>Death now came Haſty on him, and ſo quick,</l>
+                  <l>He ſearce had leave or time for to grow ſick,</l>
+                  <l>But dy'd almoſt in Health, and you may pleaſe</l>
+                  <l>To call his very life his chiefe diſeaſe.</l>
+                  <l>The Vrne may triumph that the fatall dart</l>
+                  <l>Hath wonne the ſpoile alone, without the Art</l>
+                  <l>Or learned help of Phyſick, not a Graine</l>
+                  <l>Or curious ſcruple from the Doctortane</l>
+                  <l>Made up a skilfull wound, but he did dye</l>
+                  <l>By the rude ſtroke of plain Mortality:</l>
+                  <l>Which was not give<gap reason="illegible" resp="#OXF" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap> 
+                     <gap reason="illegible" resp="#OXF" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>en his haire turn'd froſt,</l>
+                  <pb n="8" facs="tcp:14222:7"/>
+                  <l>And wore the colour which his Aſhes muſt;</l>
+                  <l>When all his Youth and Beauty were ſo ſpent,</l>
+                  <l>That Age had made him his own Monument;</l>
+                  <l>When it might be Humanity to kill,</l>
+                  <l>And the moſt deadly Drug might proue good-will:</l>
+                  <l>But in a Spring of freſh and active Blood,</l>
+                  <l>When there was nothing old in Him, but Good;</l>
+                  <l>He had Graie vertues, and by view of's mind</l>
+                  <l>Not yeares, he was ſo ſoon to heaven deſign'd.</l>
+                  <l>He who ſaw that, could ſee He liv'd his Age</l>
+                  <l>Of foureſcore, made his Race a Pilgrimage.</l>
+               </lg>
+               <lg>
+                  <l>And ſtill he lives, and from his lateſt night</l>
+                  <l>Breaks out unto the world a glorious light,</l>
+                  <l>Getting this conqueſt over death, that He</l>
+                  <l>Was ſnatch'd away in's Liberality,</l>
+                  <l>In's Piety to build, and care to frame</l>
+                  <l>Such ſumptuous Trophies as will ſave his name.</l>
+                  <l>Had he one vacant houre from Bounty ſpent,</l>
+                  <l>And in that houre unto his grave been ſent;</l>
+                  <l>'T had been leſſe glory to his Fall, to dye</l>
+                  <l>Iuſt in the ſleeping of his Charity:</l>
+                  <l>But to be caught in Good, in Vertue ſtrook,</l>
+                  <l>Made him Triumphant ere He earth forſook.</l>
+                  <l>So did the ſtout <hi>Athenian</hi> ſtand in Death,</l>
+                  <l>Rearing his Statue while he loſt his Breath.</l>
+               </lg>
+               <closer>
+                  <signed>I. MAPPLET of Ch. Ch.</signed>
+               </closer>
+            </div>
+            <div xml:lang="eng" type="poem__lamentation">
+               <pb n="9" facs="tcp:14222:7"/>
+               <head>To the memory of the Honourable Lord BAYNING.</head>
+               <lg>
+                  <l>FOrbeare yee whining Wits to rayle at Fate</l>
+                  <l>In viler termes then Scolds at <hi>Billings-gate:</hi>
+                  </l>
+                  <l>Nor brand poore Death with baſer Epithites</l>
+                  <l>Then <hi>Textor</hi> has when of the Divell he writes:</l>
+                  <l>All ſuch ill-ſounding Dirges yee can have</l>
+                  <l>Are but as Mandrakes planted on his grave.</l>
+                  <l>Your teares are now ridiculous; were I</l>
+                  <l>A Poet, I would write Deaths Elogie.</l>
+                  <l>Shee here was juſt, and courteous; Suppole</l>
+                  <l>We ſhould in Ianuary ſee a Roſe</l>
+                  <l>Full blown, would we not pull't, and think it worth</l>
+                  <l>Myriads of thoſe that May or Iune brings forth?</l>
+                  <l>This early fruitfull Flowre being ripe i'th' Spring</l>
+                  <l>Was a fit Preſent for our Soveraigns King.</l>
+                  <l>Should ſhee have left it for the Summers Fly,</l>
+                  <l>Or Autumn's Worme, 't had been ill huſwifery:</l>
+                  <l>Shee cropt it ſuddenly, and was as nice</l>
+                  <l>In killing Him, as Prieſts a Sacrifice.</l>
+                  <l>Leſt any bruiſe ſhould happen, 'twas her ſtrife</l>
+                  <l>To cut, and not ſaw off his thread of life.</l>
+                  <l>Shee knew he was prepar'd, and therefore ſent</l>
+                  <l>No Gout to tell him that he muſt repent.</l>
+                  <l>A tedious ſickneſſe had his Friends more greiv'd;</l>
+                  <l>He then had longer died, not longer liv'd.</l>
+                  <l>We judge a Keeper dull and hard of heart,</l>
+                  <pb n="10" facs="tcp:14222:8"/>
+                  <l>That wounds the timorous Dear in every part.</l>
+                  <l>He doth in Skill and Courteſy excell,</l>
+                  <l>That kills not hurts, and makes his Prey die Well.</l>
+                  <l>Deaths quicker blow did then no injury,</l>
+                  <l>But that it hindred Doctors of a Fee.</l>
+                  <l>There's none will curſe a winde cauſe it doth ſend</l>
+                  <l>Their ſhip too ſoon unto the journies end.</l>
+                  <l>Doe any Trav'lers think their Horſes ſinne,</l>
+                  <l>Vnleſſe they bring them Late unto their Inne?</l>
+                  <l>He now a Voyage took; He that did goe</l>
+                  <l>To <hi>France</hi> and <hi>Rome,</hi> muſt needs ſee Heaven too.</l>
+                  <l>What would you ſay of him that went about</l>
+                  <l>To ſee all <hi>England,</hi> and left <hi>London</hi> out!</l>
+                  <l>'Twas for His Glory that He died ſo ſoon;</l>
+                  <l>Should He have lingred till his after-noon,</l>
+                  <l>We had ſuſpected Him of groſſer blood;</l>
+                  <l>By ſhort continuance we judge things Good:</l>
+                  <l>A fine pure ſilken veſture cannot weare</l>
+                  <l>So long as garments weav'd of hemp or hayre.</l>
+                  <l>By this his early fall He did preſent</l>
+                  <l>The Gods with a perfume of ſweeter ſent.</l>
+                  <l>Tapers that burne and languiſh 'till they come</l>
+                  <l>To th'ſocket, leave ill odours in the roome.</l>
+                  <l>Lords count it a diſparagement, if they</l>
+                  <l>Should not have ſuits which ſeem new every day.</l>
+                  <l>Had it not injur'd his high Soule to weare</l>
+                  <l>His Body till the fleſh had look'd thred-bare?</l>
+                  <l>Seeing he died ſo Young, it may be ſaid</l>
+                  <l>That he's tranſplanted rather then decay'd:</l>
+                  <l>By his freſh looks, and his faire youthfull chin</l>
+                  <pb n="11" facs="tcp:14222:8"/>
+                  <l>We may believe he's made a <hi>Cherubin.</hi>
+                  </l>
+                  <l>Thoſe then that wet his Hearſe, and vainly Cry,</l>
+                  <l>Not Mourne, but Pine at His Eternity.</l>
+                  <l>Envy that here ſtill follow'd Him, is made</l>
+                  <l>After His death, the ſhadow of His ſhade.</l>
+               </lg>
+               <lg>
+                  <l>Whil'ſt others ſtudied how to looſe their time,</l>
+                  <l>Thinking that <hi>Logick</hi> would their Birth beſlime,</l>
+                  <l>As if it were Gentile not to Diſpute;</l>
+                  <l>It was his chief ambition to confute;</l>
+                  <l>Who not alone aym'd to deſerve his <hi>Grace,</hi>
+                  </l>
+                  <l>But ſeem'd by paines to wiſh a <hi>Students</hi> place.</l>
+                  <l>Though Heralds did to Him great Names afford,</l>
+                  <l>He heard <hi>Sir</hi> BAYNING ſooner then <hi>My Lord.</hi>
+                  </l>
+                  <l>Leſt the proud noiſe of Titles might beginne</l>
+                  <l>Thoughts that might ſwell His Plenty into ſinne,</l>
+                  <l>Arts and Religion gnarded them; He knew</l>
+                  <l>His Fortunes were but Crimes, without theſe two;</l>
+                  <l>And in a noble ſcorne diſdain'd to ſpell</l>
+                  <l>The Lord ith' Scutchion more then Chronicle.</l>
+                  <l>His Pride was to be Eloquent, and Able</l>
+                  <l>As is Our <hi>Dorſet</hi> at the Councell-Table.</l>
+                  <l>He knew unleſſe a bright Retinue come</l>
+                  <l>Of Vertues too, Man's but a glorious Tombe,</l>
+                  <l>Carv'd ore with names of Honour, which may win</l>
+                  <l>The eyes applauſe, but is but Stench within.</l>
+               </lg>
+               <lg>
+                  <l>Did you but read his <hi>Will</hi> you'd think that He</l>
+                  <l>Had been a Reverend Biſhop; Lords there be</l>
+                  <l>That falling in their youth bequeath alone</l>
+                  <l>Their Bodyes to our Churches, not a Stone,</l>
+                  <l>Vnleſſe for their Gwn Tombe; twas His high care</l>
+                  <pb n="12" facs="tcp:14222:9"/>
+                  <l>They ſhould his Lands as well as Carcaſſe ſhare.</l>
+               </lg>
+               <lg>
+                  <l>As if he meant each place his Heire ſhould be,</l>
+                  <l>He bleſt the Priſons with his Charity.</l>
+                  <l>Iayles are now Hoſpitalls; to ſome 'twill be</l>
+                  <l>Not to be bayld or freed, a courteſy.</l>
+                  <l>His Guifts will ſtill the <hi>New-gate</hi> Cries; we ſhall</l>
+                  <l>Heare the cag'd Birds hereafter ſing, not ball.</l>
+               </lg>
+               <lg>
+                  <l>Much doe we owe to him beſides that Plate,</l>
+                  <l>Which is when full of fragments full of State:</l>
+                  <l>The <hi>Knife</hi> and <hi>Voider's</hi> ſuch that to a Gueſt</l>
+                  <l>
+                     <hi>Taking away</hi> is as a ſecond feaſt.</l>
+               </lg>
+               <lg>
+                  <l>But the Example of his Life will be</l>
+                  <l>To after times the richeſt Legacy.</l>
+               </lg>
+               <closer>
+                  <signed>R. WEST of Ch. Ch.</signed>
+               </closer>
+            </div>
+            <div xml:lang="eng" type="poem__lamentation">
+               <head>To the Lady BAYNING.</head>
+               <lg>
+                  <l>PArdon our Bold Teares, Madam, that we doe</l>
+                  <l>Preſume to joyn our ſelves Mourners with You.</l>
+                  <l>Grief is no Herald; there's no Rule in Moanes,</l>
+                  <l>We never ſtand on Titles in our Groanes.</l>
+                  <l>Manners and Complement we prize the leſſe,</l>
+                  <l>Where a Confus'd ſad Griefe is the beſt dreſſe:</l>
+                  <l>Yet we doe hope You will no Cenſure make,</l>
+                  <l>And Teares ſwoln up with Grief for Pride miſtake;</l>
+                  <l>Nor call our ſighs to th'Court of Honor, wee</l>
+                  <l>Doe not lament for the Brave Company.</l>
+                  <l>Where our own loſſe prompts us, you need not fear</l>
+                  <pb n="13" facs="tcp:14222:9"/>
+                  <l>Rivals in plaints, as Iealous of each Teare.</l>
+                  <l>We all enjoy'd ſo much of Him, we dare</l>
+                  <l>Allow You but a Part, and Common ſhare:</l>
+                  <l>His Goodnes was ſo much diffus'd, we doe</l>
+                  <l>Think we might love him without wrong to You.</l>
+               </lg>
+               <lg>
+                  <l>May we not think him now but croſs'd the Seas,</l>
+                  <l>And count His Death 'mong other Voyages?</l>
+                  <l>Sure, as no Land he here did travell o're</l>
+                  <l>But what in's Study He had paſſ'd before,</l>
+                  <l>And firſt knew France and Spaine in England, ere</l>
+                  <l>He was a Witneſſe of their Actions there;</l>
+                  <l>So was his pure Refined ſoule we know</l>
+                  <l>So well acquainted with the place it now</l>
+                  <l>More fully dwells in, 't may be truly ſaid</l>
+                  <l>He had been much in Heavn'n ere he was Dead.</l>
+               </lg>
+               <lg>
+                  <l>But this doth only cheat our Grief, the maine</l>
+                  <l>Comfort's our Hope to ſee him here againe,</l>
+                  <l>In that brave off-ſpring which your Blood yet keeps</l>
+                  <l>Alive in memory of Him that ſleeps.</l>
+                  <l>Which when you ſhall give Birth to, He being gone</l>
+                  <l>We all will count his Reſurrection.</l>
+               </lg>
+               <closer>
+                  <signed>ROB. MEADE Ch. Ch.</signed>
+               </closer>
+            </div>
+            <div xml:lang="eng" type="poem__lamentation">
+               <pb n="14" facs="tcp:14222:10"/>
+               <head>On the Death of the Lord Viſcount BAYNING.</head>
+               <l>VVHen Titles fall, and Death ambitious how</l>
+               <l>To raiſe his Triumph, makes ſome great one bow,</l>
+               <l>Not <hi>Cadmus</hi> teeth could halfe ſo ſoon infuſe</l>
+               <l>A ſoule, as can Their duſt inſpire a Muſe;</l>
+               <l>Whiles death enlivens death, and moſt wits have</l>
+               <l>Their Reſurrection from anothers Grave:</l>
+               <l>Nor were the wonder ſtrange thus to behold</l>
+               <l>Our Ice inflam'd, our Heat ſpring out of Cold,</l>
+               <l>Did all like BAYNING dye; did every Lord</l>
+               <l>More griefe for Vertue loſt, then State afford,</l>
+               <l>How might bad verſes be excus'd, when we</l>
+               <l>Found all writ truth, no other Poetry;</l>
+               <l>When height of Fancy left Expreſſion weak,</l>
+               <l>Not able to Begin, much leſſe to Speak</l>
+               <l>And tell to th'full, that hence whats e're cald verſe,</l>
+               <l>Will be but Tribute due to this Mans hearſe?</l>
+               <l>Such was thy worth; whoſe dawning prov'd that Light</l>
+               <l>Which aged beams ſend forth, to Thine true night:</l>
+               <l>Whoſe Paſtime ſpent in <hi>Oxford</hi> (for what more</l>
+               <l>Is it for Noble-men to turne Books ore?)</l>
+               <l>Prov'd Serious Play: True Honour does know how</l>
+               <l>To Riſe to Vertue, not make Vertue Bow.</l>
+               <l>This Gaind Him Reverence, Young: Receiving, He</l>
+               <l>Gave to th'Univerſity a degree:</l>
+               <l>Thus Bloſſom'd in his Bud, thus early wiſe</l>
+               <pb n="15" facs="tcp:14222:10"/>
+               <l>Grown now the Ioy, not Envy of mens eyes:</l>
+               <l>Travell's His Choice, not Refuge; unlike thoſe</l>
+               <l>Who what they want at Home, Abroad diſcloſe,</l>
+               <l>Paſſing this Country to ſhun that; thus round</l>
+               <l>Spend all their Own to out-run Forrein ground.</l>
+               <l>Luſtre went with Him, and whiles He did paſſe,</l>
+               <l>That place was thought worth ſeeing where He was.</l>
+               <l>Rome entertain'd Him, which you then might call</l>
+               <l>The worlds Head juſtly, when the Cardinall</l>
+               <l>Enrich'd by's Preſents, found his Honour more</l>
+               <l>By what He added to his Princely ſtore.</l>
+               <l>Thus big with forreine Praiſes, Hee's come home,</l>
+               <l>But all was only here to find a Tombe:</l>
+               <l>Where we muſt let him reſt, thus good, thus young;</l>
+               <l>For too much grief would doe His Vertues wrong;</l>
+               <l>Whoſe Morn though clowded, ſee's His haſtned years</l>
+               <l>Extended to their full in his Friends Tears.</l>
+               <closer>
+                  <signed>H. GRESLEY of Ch. Ch.</signed>
+               </closer>
+            </div>
+            <div xml:lang="eng" type="poem__lamentation">
+               <head>On the Death of the Lord BAYNING.</head>
+               <lg>
+                  <l>'TIs not ambition drawes my juyceleſſe pen</l>
+                  <l>Thus to diſtill a Poëm; 'mongſt ſuch Men,</l>
+                  <l>Or rather Gods of Poetry 'tis Pride</l>
+                  <l>To come behind, Duty to be deſcri'd</l>
+                  <l>I'th' liſt of Them; beſides I think't not fit</l>
+                  <l>To raiſe a fire where floods of teares ſhould meet;</l>
+                  <pb n="16" facs="tcp:14222:11"/>
+                  <l>And Poëtry's a fire: but my Muſe feares</l>
+                  <l>A kindling from this urne, leſt drown'd with teares</l>
+                  <l>It quickly turne to aſhes, and there be</l>
+                  <l>Not a ſpark left to weepe an elegie.</l>
+               </lg>
+               <lg>
+                  <l>Yet this, Great BAYNING'S dead! That's all I have</l>
+                  <l>Or can ſpeak: Silence beſt becomes the Grave.</l>
+                  <l>Yet this againe, Whilſt with us here He ſtriv'd</l>
+                  <l>To outdoe Goodneſſe, Bounty, All, He liv'd</l>
+                  <l>His Character; who in his carriage than</l>
+                  <l>Shew'd of himſelfe that, which no Poët can:</l>
+                  <l>Who with his rareſt art, and choyceſt quill</l>
+                  <l>Muſt ſerve here only to expreſſe him ill.</l>
+                  <l>He was ſo pure, ſo ſpotleſſe, ſo refind,</l>
+                  <l>I took Him for ſome Angell, Soule, or Mind,</l>
+                  <l>And think it no hyperbole to call</l>
+                  <l>As others From, To heav'n this Angel's Fall.</l>
+                  <l>I dare not write an Epitaph, for feare</l>
+                  <l>The Vrne devoure my Verſe, being ſo neare.</l>
+                  <l>Yet thus much to their Honours at the Court,</l>
+                  <l>(Two loſſes being knowne) I dare report,</l>
+                  <l>(And 'tis no treaſon, theſe great names being read,</l>
+                  <l>
+                     <hi>Herbert,</hi> and <hi>Bayning,</hi>) That all <hi>Vertues</hi> dead.</l>
+               </lg>
+               <closer>
+                  <signed>T. D. of Ch. Ch.</signed>
+               </closer>
+            </div>
+            <div xml:lang="eng" type="poem__lamentation">
+               <head>Vpon the Death of the Lord BAYNING.</head>
+               <l>MOſt ſacred hearſe, let it no ſin appeare,</l>
+               <l>If I upon thy Vrne doe weepe one teare!</l>
+               <l>I muſt vent out my ſighes, it cannot be</l>
+               <pb n="17" facs="tcp:14222:11"/>
+               <l>A loſſe to us, to th'<hi>Vniverſitie,</hi>
+               </l>
+               <l>Nay the whole Nation too, ſhould ſlightly paſſe</l>
+               <l>With this memoriall only, that He was:</l>
+               <l>Whilſt vertue ſhall be talk't of, till we ſhall</l>
+               <l>See nought that's good, thy memory cannot fall.</l>
+               <l>If e're we ſhall of ſome <hi>Vtopian</hi> heare</l>
+               <l>That never knew raſh boldneſſe, or cold feare,</l>
+               <l>No riot, no injuſtice, no exceſſe,</l>
+               <l>Nor want, but all things in juſt perfectneſſe,</l>
+               <l>Actions ſo rul'd by prudence, and ſo all</l>
+               <l>As if his Vertues too were Naturall:</l>
+               <l>Then we ſhall think on BAYNING, ſweare that Hee,</l>
+               <l>That wrote it, meant it for His Hiſtory,</l>
+               <l>Proper to Him: Whoſe Life was ſuch, we can</l>
+               <l>Scarce Iudge by which He greater Glory wan,</l>
+               <l>His Actions, or His Studies: what the Sage</l>
+               <l>Appropriate to the Wrinckle, and Old Age,</l>
+               <l>Knowledge, He compaſt in His Smoother Dayes,</l>
+               <l>And did Greene Paſſions up to Wiſdome raiſe.</l>
+               <l>Learning He thought no Burden, or to know</l>
+               <l>In Theoricke Vertues which He meant to ſhow;</l>
+               <l>Nor took't a Blemiſh to Nobility,</l>
+               <l>To have a Schollar's merited Degree,</l>
+               <l>Eſteem'd it not ſufficient to heare</l>
+               <l>Compleate at home, and move but in one Spheare:</l>
+               <l>This Nation's too Contract; He does goe o're</l>
+               <l>Laden with Vertues to a Forreigne Shoare,</l>
+               <l>Not to exchange for Vice, or leave behind</l>
+               <l>To them the qualities of His Vertuous Mind;</l>
+               <l>As if He could no Traveller appeare,</l>
+               <pb n="18" facs="tcp:14222:12"/>
+               <l>If He return'd the ſame man He was here:</l>
+               <l>But He addes to it all the good <hi>France</hi> can</l>
+               <l>Call Proper Hers, all the <hi>Italian,</hi>
+               </l>
+               <l>Which without Stay ſo eaſily He cou'd,</l>
+               <l>As if He were by Inſpiration good.</l>
+               <l>To them He ſeem'd a Native, they would ſweate</l>
+               <l>He never was in any part but there:</l>
+               <l>He was ſo perfect without travell, we</l>
+               <l>In Him both Kingdomes Vertue here did ſee.</l>
+               <l>Thus fully furniſh't with all nature's dowre,</l>
+               <l>With Art, Experience, and Uertue's Power.</l>
+               <l>We ſaw him flouriſhing, but nature here</l>
+               <l>Begins her bounty quite exhauſt to feare;</l>
+               <l>And being of her laviſh ſtore now dry,</l>
+               <l>She cuts Him downe full in Felicity.</l>
+               <l>Thus the beſt Fruits juſt ripe are crop't, although</l>
+               <l>Without corruption they might longer grow.</l>
+               <l>But let this ſerve to ſtop our flowing teares,</l>
+               <l>That he dy'd Full: Age is not Numerous yeares;</l>
+               <l>Nor are they only Old that longeſt live,</l>
+               <l>Perfection and Uertue Fulneſſe give.</l>
+               <closer>
+                  <signed>THO. ISHAM of Ch. Ch.</signed>
+               </closer>
+            </div>
+            <div xml:lang="eng" type="poem__lamentation">
+               <pb n="19" facs="tcp:14222:12"/>
+               <head>Vpon the Death of the Lord Viſcount BAYNING.</head>
+               <lg>
+                  <l>TO weep one Great and Good, t'adorn his Hearſe</l>
+                  <l>Whoſe Life was above Chronicle, or Verſe,</l>
+                  <l>Requireth thoſe, whoſe fancies could create</l>
+                  <l>A ſubject like to Him, as Good, and Great.</l>
+                  <l>Theſe Lines (alas!) they are not meant to give</l>
+                  <l>Life to that Name, by which themſelves muſt live:</l>
+                  <l>That Name, Which doth employ each tongue, each Quill</l>
+                  <l>To ſing His Praiſes, write his Chronicle.</l>
+                  <l>BAYNING! Whoſe very ſound perfumes the Ayre,</l>
+                  <l>Commands a Reverence, and a liſtning eare.</l>
+               </lg>
+               <lg>
+                  <l>Books were a Guide t' his Youth, and Company;</l>
+                  <l>He thought of them with greater Charity</l>
+                  <l>Then thoſe, who think them fit to entertaine</l>
+                  <l>Only the houres of a hot Sun, or Raine.</l>
+                  <l>When He perus'd great Acts of Hiſtory,</l>
+                  <l>His large thoughts did ſuggeſt them Prophecy,</l>
+                  <l>And Types of Him: when He the Uertues read,</l>
+                  <l>And ſaw himſelfe tranſcrib'd, and copied,</l>
+                  <l>He with a modeſty admir'd to find</l>
+                  <l>Men ſo familiar with His Thoughts and Mind.</l>
+               </lg>
+               <lg>
+                  <l>Seaſon'd, and ballaſted with theſe, He then,</l>
+                  <l>Leaving our <hi>Athens,</hi> went to ſtudie Men.</l>
+                  <l>Not like to thoſe who travell to bring home</l>
+                  <l>A Faſhion, or to ſay they have ſeene Rome;</l>
+                  <pb n="20" facs="tcp:14222:13"/>
+                  <l>But to obſerve each State and Policy,</l>
+                  <l>T'enrich his Mind, more then Geography.</l>
+               </lg>
+               <lg>
+                  <l>And now returned home, when he begun</l>
+                  <l>To practiſe here each Obſervation,</l>
+                  <l>While we behold <hi>Europes</hi> Epitome</l>
+                  <l>Of Men in Him, of States in's Family,</l>
+                  <l>While <hi>Charles</hi> expects his aid, the Realme no leſſe,</l>
+                  <l>Death ſtops his Glory, and our Happineſſe,</l>
+                  <l>But Good Men have liv'd long when e're Fates come:</l>
+                  <l>Their Age by Vertues, not by Yeares we ſumme,</l>
+               </lg>
+               <closer>
+                  <signed>SAM IACKSON of Ch. C</signed>
+               </closer>
+            </div>
+            <div xml:lang="eng" type="poem__lamentation">
+               <head>Vpon the Death of the honourable Lord Viſcount BAYNING.</head>
+               <l>GReat Lord of Ghoſts, we ſigh not out Thy Fall,</l>
+               <l>As only <hi>Thine,</hi> But th' <hi>Muſes</hi> Funerall:</l>
+               <l>We weepe our <hi>Colledge</hi> ſecond Ruines; and</l>
+               <l>May Queſtion chiefly Death's erroneous Hand,</l>
+               <l>That yet we boaſt Intents alone, an Heape,</l>
+               <l>And Breaches, only not entitled cheape,</l>
+               <l>That Thoſe who entring <hi>Srangers,</hi> here would look,</l>
+               <l>Doe Paſſe ours, as a <hi>Colledge</hi> but miſtooke:</l>
+               <l>Yet Orphan-like w'are not bereft of All,</l>
+               <l>The ſame that waile, ſhare too Thy haſtned Fall;</l>
+               <l>Thy Piles bequeath'd yet, which ſhall firme and ſafe</l>
+               <l>With <hi>Wolſeys</hi> ſtand thy larger <hi>Epitaph.</hi>
+               </l>
+               <pb n="21" facs="tcp:14222:13"/>
+               <l>But we not miſſe His Gifts alone, nor weepe</l>
+               <l>Mercy and Bounty only fallen aſleepe;</l>
+               <l>We boaſt no Scutchions, nor admire Thy Blood,</l>
+               <l>(Great Soule) but beſt deſcent by Learning Good,</l>
+               <l>Though Noble, mourning not the Loſſe of Thee,</l>
+               <l>As of a man but <hi>Vniverſitie:</hi>
+               </l>
+               <l>Who grac'd our <hi>Schooles</hi> with a <hi>Degree;</hi> All Parts</l>
+               <l>Arriv'd, A Breathing Syſtem of the Arts.</l>
+               <l>Not like our Silken Heires, who only bound</l>
+               <l>Their knowledge in the Sphear of Hauke or Hound,</l>
+               <l>And, there confin'd, limit their ſcant diſourſe,</l>
+               <l>Know more the <hi>Vaulting</hi> then the <hi>Muſes</hi> Horſe:</l>
+               <l>Who if They reſcue Time from Cards or Dice</l>
+               <l>To Lance or Sharpes, or ſome ſuch manly Prize,</l>
+               <l>Advance Their Lineage, raiſe Their Stock, if They</l>
+               <l>But more ſeverely looſe the Precious Day.</l>
+               <l>He could unriddle each Schoole-knot, untie</l>
+               <l>All, but Death's ſad contrived <hi>Fallacie:</hi>
+               </l>
+               <l>For th' Stroke was Project Here, no Siege, no Art</l>
+               <l>Of lingring Death, or Preface to His Dart;</l>
+               <l>No tedious knotty Gout, or feveriſh Drought</l>
+               <l>But all as Soft and Peacefull as <hi>His</hi> Youth:</l>
+               <l>He only ſlept in Haſt, as if to Die</l>
+               <l>Had no Departure been, but Extaſie:</l>
+               <l>So gliding we deſcry a ſtarry Ball,</l>
+               <l>Which f<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>om it's Sphear doth rather Shoot, then Fal.</l>
+               <l>Yet <hi>Thy</hi> ſhort Thread wee'le not revile, nor vexe</l>
+               <l>'Cauſe Th' art not imag'd in the Nobler Sexe;</l>
+               <l>For ſuch Tranſcriptions wee'le not anxious be,</l>
+               <l>Where we diſcover full Maturitie:</l>
+               <pb n="22" facs="tcp:14222:14"/>
+               <l>Ripened for Death Thou art Deceas'd, not Kill'd,</l>
+               <l>Nor is <hi>Thy</hi> great <hi>Name</hi> Periſh'd, but Fulfill'd.</l>
+               <l>For what can adde unto the juſteſt Height,</l>
+               <l>Who Hopes encreaſe to Glorie's perfect Weight,</l>
+               <l>To Him that had ſurvei'd all Forreigne parts,</l>
+               <l>Extracting not Their Vices, but Their Arts?</l>
+               <l>Th' <hi>Italian</hi> Brain, not Heate, was skil'd from <hi>Rheine</hi>
+               </l>
+               <l>In Their exacteſt <hi>Manners,</hi> not Their <hi>Vine.</hi>
+               </l>
+               <l>Their Deepeſt Myſteries did only reach,</l>
+               <l>And Had more Languages, then others teach?</l>
+               <l>All Worth His Eye He view'd, that ſuch a Fall</l>
+               <l>Might ſhare a ſorrow Epidemicall,</l>
+               <closer>
+                  <signed>FRAN. POWELL of Ch. Ch.</signed>
+               </closer>
+            </div>
+            <div xml:lang="eng" type="poem__lamentation">
+               <head>Vpon the Death of the Lord Viſcount BAYNING.</head>
+               <lg>
+                  <l>DEath's Chambers are enrich't, and we may ſay</l>
+                  <l>He did not Kill, but Stole This Prize away.</l>
+                  <l>For th'now pale Manſion, where his Soule a<g ref="char:EOLhyphen"/>bode</l>
+                  <l>Does make the Coffin precious by it's Load:</l>
+                  <l>Yet that was but His Droſſe; ſearch, you will find</l>
+                  <l>Him at Fifteene a Sophy; 's Nonage Mind</l>
+                  <l>Made the Schooles boaſt Him Graduate; and's Wit</l>
+                  <l>Writ Him th' reviv'd refined Stagerite.</l>
+                  <l>And leſt the Sophiſters might erre in this,</l>
+                  <l>Granted Platonicke <hi>Metempſeuchoſis;</hi>
+                  </l>
+                  <pb n="23" facs="tcp:14222:14"/>
+                  <l>And did conclude, Maugre their Brains and Books,</l>
+                  <l>Arts doe not alwaies lie in ill-fac'd looks;</l>
+                  <l>And th'totred Gowne no longer now ſhould be</l>
+                  <l>Held for an Embleme of Philoſophy.</l>
+                  <l>He did adorne the Scarlet which he wore;</l>
+                  <l>And made them Robes which were but Cloth be<g ref="char:EOLhyphen"/>fore:</l>
+                  <l>Titles were truths in him; Young, Fair, Rich, Learn'd</l>
+                  <l>No complements, but Purchaſe, truly earn'd:</l>
+                  <l>No Would-be-Wits maintain'd Hee at His Board,</l>
+                  <l>Nought was in him ſuſpitious but The Lord:</l>
+                  <l>Yet no Braines cloth'd, or Phancy fed Him; Hee</l>
+                  <l>Rich in Eſtate, as Ingenuitie:</l>
+                  <l>And might have (without doubt of miſſing it,)</l>
+                  <l>Petition'd for th' Monopoly of Wit:</l>
+               </lg>
+               <lg>
+                  <l>To this vaſt maſſe of Wealth He had aſſign'd</l>
+                  <l>As ample thoughts; no narrow, griping Mind,</l>
+                  <l>Manſions by Induſtry compos'd, not Hands</l>
+                  <l>He fed on; and devour'd His Books, not Lands.</l>
+                  <l>To whoſe large Guifts we of this place muſt owe;</l>
+                  <l>Since that He thought His Owne He did beſtow.</l>
+                  <l>Thy Volumes nam'd Our Library, and We</l>
+                  <l>As well for Stones as Bookes indebted be.</l>
+                  <l>For though no Founder of the place, yet muſt</l>
+                  <l>We ſay, thou rays'dſt our Buildings out o'th' Duſt;</l>
+                  <l>Thou didſt bequeath 'em Their Nativitie;</l>
+                  <l>And they doe Glory Their New-Birth from Thee.</l>
+                  <l>Thus liv'ſt Thou, Maugre Fate; Thy better Parts</l>
+                  <l>Survive thus in our Memories, and Hearts:</l>
+                  <l>Nor need'ſt Thou claime ſtatued Antiquity;</l>
+                  <l>Vertue Perpetuates Thy Nobility.</l>
+                  <pb n="24" facs="tcp:14222:15"/>
+                  <l>Since we may Date, from thy Departure hence,</l>
+                  <l>The Dearth of Merit and Benevolence.</l>
+               </lg>
+               <closer>
+                  <signed>Tho. NORGATE of Ch. Ch.</signed>
+               </closer>
+            </div>
+            <div xml:lang="eng" type="poem__lamentation">
+               <head>On the Death of the Right Honourable the Lord Viſcount BAYNING.</head>
+               <lg>
+                  <l>SO ſets the Sunne, when ſtrait there doth enſue</l>
+                  <l>On the forſaken plants a Penſive Dew:</l>
+                  <l>And ſo they hang their heads as we, the fall</l>
+                  <l>O'th' Sun and BAYNING are Griefs Generall.</l>
+               </lg>
+               <lg>
+                  <l>There were ſome comfort yet in Tears could we</l>
+                  <l>But mourn our Loſſe in worthy lines, like Thee;</l>
+                  <l>Could we, by what we write, to celebrate</l>
+                  <l>Thy Name to Life, reſcue Our Own from fate.</l>
+                  <l>But we (alas) orecome with Luſtre, doe</l>
+                  <l>Only a proud and ſolemne weakneſſe ſhow.</l>
+                  <l>And ſome who knew Thee better ſure will raiſe</l>
+                  <l>A Loving well-meant Libell from our praiſe.</l>
+               </lg>
+               <lg>
+                  <l>To ſpeak one Good as Noble, Rich as Free,</l>
+                  <l>Were but to cloud Thy worth, and conceale Thee:</l>
+                  <l>To write Thy painfull Study's, Learnings ſtore</l>
+                  <l>Were wrong, theſe had been vertues in the Poore.</l>
+                  <l>So many numerous Paths of Praiſe we find,</l>
+                  <l>Tread which we will we leave the Beſt behind:</l>
+                  <l>We cannot Praiſe, nor Thank enough, the ſtore</l>
+                  <l>Of Guifts thou haſt bequeath'd us makes us Poore.</l>
+                  <l>Yet when our Ruines ſhall be rais'd (which we</l>
+                  <pb n="25" facs="tcp:14222:15"/>
+                  <l>May Hope for now, thriving ſo well by Thee)</l>
+                  <l>Each Stone Thy Bounty lay's there ſhall become</l>
+                  <l>A better Monument then a Coſtly Tombe.</l>
+               </lg>
+               <closer>
+                  <signed>R. DAY of Ch. Ch.</signed>
+               </closer>
+            </div>
+            <div xml:lang="lat" type="poem__lamentation">
+               <head>Illuſtriſſimi Vicecomitis BAYNING fato immaturo functi P. M. S.</head>
+               <l>
+                  <hi>SIc dum ſecundus Penelope Canitur Hymenaeus,</hi>
+               </l>
+               <l>
+                  <hi>Emenſoſ<expan>
+                        <am>
+                           <g ref="char:abque"/>
+                        </am>
+                        <ex>que</ex>
+                     </expan> iam errores iteratae quaſi Nuptiae coronant,</hi>
+               </l>
+               <l>
+                  <hi>Redux Maritus Evaneſcit;</hi>
+               </l>
+               <l>
+                  <hi>Vxor<expan>
+                        <am>
+                           <g ref="char:abque"/>
+                        </am>
+                        <ex>que</ex>
+                     </expan>, Virum Saevas narrantem Vias</hi>
+               </l>
+               <l>
+                  <hi>Dum per Oſcula liberare geſtit,</hi>
+               </l>
+               <l>
+                  <hi>Quaerit quem labris premat:</hi>
+               </l>
+               <l>
+                  <hi>Ita vel Co<g ref="char:cmbAbbrStroke">̄</g>iugis vice Co<g ref="char:cmbAbbrStroke">̄</g>iugis Vmbra<g ref="char:cmbAbbrStroke">̄</g> accepiſse putemus,</hi>
+               </l>
+               <l>
+                  <hi>Vel ſi Coniugem, ideò tantum ut bis vidua eſſet.</hi>
+               </l>
+               <l>
+                  <hi>Gaudemus tamen quod Mitior Pelagi Deus</hi>
+               </l>
+               <l>
+                  <hi>Amplexandum nobis pauliſper Corpus indulſerit;</hi>
+               </l>
+               <l>
+                  <hi>Multumque Vndis debemus,</hi>
+               </l>
+               <l>
+                  <hi>Quod non inane Sepulchrum, &amp; ſolu<g ref="char:cmbAbbrStroke">̄</g> titulu<g ref="char:cmbAbbrStroke">̄</g> lugeamus.</hi>
+               </l>
+               <l>
+                  <hi>Te ſub undis labente</hi>
+               </l>
+               <l>
+                  <hi>Novum ſtupeſcens Terra ſenſiſſet Diem:</hi>
+               </l>
+               <l>
+                  <hi>Nam debitos Phaebo ſinus, &amp; facilem thorum</hi>
+               </l>
+               <l>
+                  <hi>Deluſa Thetis Occidenti praebuiſset Tibi,</hi>
+               </l>
+               <l>
+                  <hi>Pulſuſ<expan>
+                        <am>
+                           <g ref="char:abque"/>
+                        </am>
+                        <ex>que</ex>
+                     </expan> Titan etiam noctu ſydera fugaſset.</hi>
+               </l>
+               <l>
+                  <hi>At O Natura!</hi>
+               </l>
+               <pb n="26" facs="tcp:14222:16"/>
+               <l>
+                  <hi>Fatiſve ſubij cis exemplaria Tua?</hi>
+               </l>
+               <l>
+                  <hi>Morti<expan>
+                        <am>
+                           <g ref="char:abque"/>
+                        </am>
+                        <ex>que</ex>
+                     </expan> ius facis in Archetypos vultu<gap reason="illegible" resp="#OXF" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>
+                  </hi>
+               </l>
+               <l>
+                  <hi>Molimini certè tuo tam elaborato,</hi>
+               </l>
+               <l>
+                  <hi>Hoc ſalte<g ref="char:cmbAbbrStroke">̄</g> indere debuiſſes, non potuiſſe Seneſere.</hi>
+               </l>
+               <l>
+                  <hi>Quis iam,</hi>
+               </l>
+               <l>
+                  <hi>Quis, precor, Aromatum vice Opera diſperget?</hi>
+               </l>
+               <l>
+                  <hi>Novum<expan>
+                        <am>
+                           <g ref="char:abque"/>
+                        </am>
+                        <ex>que</ex>
+                     </expan> Aulicos luxum edocebit,</hi>
+               </l>
+               <l>
+                  <hi>Boni Nominis Vnguentum?</hi>
+               </l>
+               <l>
+                  <hi>Quem non unius Artis Praeſidem,</hi>
+               </l>
+               <l>
+                  <hi>Ita Philoſophantem audivimus,</hi>
+               </l>
+               <l>
+                  <hi>Quaſi Vicecomitis Praerogativâ etia<g ref="char:cmbAbbrStroke">̄</g> literis imperaret.</hi>
+               </l>
+               <l>
+                  <hi>Hoc Tu teſteris, Roma,</hi>
+               </l>
+               <l>
+                  <hi>Quae, accedente ipſo, <hi>Bodleiana<g ref="char:cmbAbbrStroke">̄</g>
+                     </hi> in <hi>Vaticanâ</hi> ſenſeris,</hi>
+               </l>
+               <l>
+                  <hi>Mobilem<expan>
+                        <am>
+                           <g ref="char:abque"/>
+                        </am>
+                        <ex>que</ex>
+                     </expan> 
+                     <hi>Oxoniam</hi> obſtupueris.</hi>
+               </l>
+               <l>
+                  <hi>Sed quàm improvidus noſter dolor,</hi>
+               </l>
+               <l>
+                  <hi>Qui eodem flumine iam rogum deflet Tuum,</hi>
+               </l>
+               <l>
+                  <hi>Quo olim diſceſsum?</hi>
+               </l>
+               <l>
+                  <hi>Vt non ſolenniori pompâ ſtipatus ſis moriens,</hi>
+               </l>
+               <l>
+                  <hi>Quàm itinerans olim proceſseras!</hi>
+               </l>
+               <l>
+                  <hi>Parcas tamen</hi>
+               </l>
+               <l>
+                  <hi>Cum eò dignior evadas quia non velut Defunctus lu<g ref="char:EOLhyphen"/>gearis,</hi>
+               </l>
+               <l>
+                  <hi>Credimus enim Tepoſtreviſum Orbem Noſtrum</hi>
+               </l>
+               <l>
+                  <hi>Iam tantùm Polos Peragrare,</hi>
+               </l>
+               <l>
+                  <hi>Et nunc etiam iterfacere;</hi>
+               </l>
+               <l>
+                  <hi>Non tam Mortem obiens, quam Legationem.</hi>
+               </l>
+               <closer>
+                  <signed>F. PALMER ex Aed. Ch.</signed>
+               </closer>
+            </div>
+            <div xml:lang="lat" type="poem__lamentation">
+               <pb n="27" facs="tcp:14222:16"/>
+               <head>In obitum Illuſtriſſimi Vice-comitis BAYNING.</head>
+               <lg>
+                  <l>
+                     <hi>ERgone tam ſubitâ potuit vice lenior Aura</hi>
+                  </l>
+                  <l>
+                     <hi>Turbinis iſſe vias, &amp; ruptâ Flaminis irâ</hi>
+                  </l>
+                  <l>
+                     <hi>In rapidos creviſſe Imbres, &amp; Grandinis instar,</hi>
+                  </l>
+                  <l>
+                     <hi>Praecipitaſſe Ictus? vel, quas modò Straverat undas,</hi>
+                  </l>
+                  <l>
+                     <hi>Inſanire jubet? Noſtri haec Emblemata Morbi</hi>
+                  </l>
+                  <l>
+                     <hi>Praeripiunt Loeto lacrymas: dum fortior Aetas</hi>
+                  </l>
+                  <l>
+                     <hi>(Furtivos ſimulans riſus, &amp; picta futuri</hi>
+                  </l>
+                  <l>
+                     <hi>Gaudia ſola Mali,) Fato contermina, ocellos</hi>
+                  </l>
+                  <l>
+                     <hi>Vix aptos lugere, docet; fluctuſ<expan>
+                           <am>
+                              <g ref="char:abque"/>
+                           </am>
+                           <ex>que</ex>
+                        </expan> ſerenâ</hi>
+                  </l>
+                  <l>
+                     <hi>Mente rotat: tantos (placidae Fastidia vitae)</hi>
+                  </l>
+                  <l>
+                     <hi>Eructat teneros gemitus, adeo<expan>
+                           <am>
+                              <g ref="char:abque"/>
+                           </am>
+                           <ex>que</ex>
+                        </expan> fatigat</hi>
+                  </l>
+                  <l>
+                     <hi>Corpus, ut Ipſa ſalus ſit tantùm Aenigma malorum.</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <l>
+                     <hi>Sic Tumidum in ſudo Neptunum vidimus: uno</hi>
+                  </l>
+                  <l>
+                     <hi>Saltant Corda Ioco, quo conſternata recumbunt:</hi>
+                  </l>
+                  <l>
+                     <hi>Sic tremulam innocuâ cingit vertigine flammam,</hi>
+                  </l>
+                  <l>
+                     <hi>Dum quo Muſca prius luſit, iam conditur Igne.</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <l>
+                     <hi>Quid tamen (in Metâ labor eſt) torquemur euntes?</hi>
+                  </l>
+                  <l>
+                     <hi>Inſtruimuſ<expan>
+                           <am>
+                              <g ref="char:abque"/>
+                           </am>
+                           <ex>que</ex>
+                        </expan> 
+                        <gap reason="illegible" resp="#OXF" extent="1+ letters">
+                           <desc>•…</desc>
+                        </gap>ovas diris Ambagibus Vrnas?</hi>
+                  </l>
+                  <l>
+                     <hi>Mortuus est:— utinam ſacrum fas dicere Nomen!</hi>
+                  </l>
+                  <l>
+                     <hi>Siſte tamen Gemitus, fas eſt &amp; dicere Nomen,</hi>
+                  </l>
+                  <l>
+                     <hi>Syllaba ſi gemitu magè flebilis impleat Aures;</hi>
+                  </l>
+                  <l>
+                     <hi>Si quicquam emittas praeter ſuſpiria, <hi>Bayning</hi>
+                     </hi>
+                  </l>
+                  <l>
+                     <hi>Qui recitare poteſt, Luctus ſacrata reponit</hi>
+                  </l>
+                  <l>
+                     <hi>Iuramenta ſui, Noſtrae<expan>
+                           <am>
+                              <g ref="char:abque"/>
+                           </am>
+                           <ex>que</ex>
+                        </expan> eſt Perſidus Irae.</hi>
+                  </l>
+                  <l>
+                     <hi>Sic geminus, Monumenta viri, Monumenta revuiſi</hi>
+                  </l>
+                  <pb n="28" facs="tcp:14222:17"/>
+                  <l>
+                     <hi>Nominis, Horror habet; niſi quae meliore quieſcant</hi>
+                  </l>
+                  <l>
+                     <hi>Vxoris tumulata ſinu; niſi Praeſcius Infans</hi>
+                  </l>
+                  <l>
+                     <hi>Iuſtior erumpat Tumuli vindicta Paterni.</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <l>
+                     <hi>Quid minuam, Narrando, Virum? faecunda<expan>
+                           <am>
+                              <g ref="char:abque"/>
+                           </am>
+                           <ex>que</ex>
+                        </expan> certe<g ref="char:cmbAbbrStroke">̄</g>
+                     </hi>
+                  </l>
+                  <l>
+                     <hi>Gramina nativis pinxiſſe coloribus? Illi</hi>
+                  </l>
+                  <l>
+                     <hi>Debetur tantum vitae deſcriptio, cuius</hi>
+                  </l>
+                  <l>
+                     <hi>Vita minus Meritis redolet, quam Funus Odore:</hi>
+                  </l>
+                  <l>
+                     <hi>Cuius Fama levis (patitur dum fata ſepulchrum)</hi>
+                  </l>
+                  <l>
+                     <hi>Interitu brevior, Tumuloque anguſtior ipſo eſt.</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <l>
+                     <hi>Iam morbo praerepta ſuo pia Fragmina vocis</hi>
+                  </l>
+                  <l>
+                     <hi>Exaudire iuvat, ſacro quae Prodiga Luxa</hi>
+                  </l>
+                  <l>
+                     <hi>Muner a donârunt; Nudi ut diteſcere poſsint:</hi>
+                  </l>
+                  <l>
+                     <hi>Quae miranda magis, Plenas has Divitis ora</hi>
+                  </l>
+                  <l>
+                     <hi>Degustâre Manus; hinc &amp; Collegia creſcunt.</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <l>
+                     <hi>Inter vivaces Tua vita repullulet urnas,</hi>
+                  </l>
+                  <l>
+                     <hi>Turgeat at<expan>
+                           <am>
+                              <g ref="char:abque"/>
+                           </am>
+                           <ex>que</ex>
+                        </expan> nou<gap reason="illegible" resp="#OXF" extent="1 letter">
+                           <desc>•</desc>
+                        </gap> fama Anguſtata ſepulchro:</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <l>
+                     <hi>Cum tamen obductâ iaceas caligine, reddant</hi>
+                  </l>
+                  <l>
+                     <hi>Non aliam Tibi fata Fugam, quam Nubila Soli.</hi>
+                  </l>
+               </lg>
+               <closer>
+                  <signed>R. LUTE ex Aede Ch.</signed>
+               </closer>
+            </div>
+            <div xml:lang="lat" type="poem__lamentation">
+               <head>In obitum Illuſtriſſimi Vice-comitis BAYNING.</head>
+               <l>
+                  <hi>ERgo Hominum Mores tantu<g ref="char:cmbAbbrStroke">̄</g> est vidiſſe periclu<g ref="char:cmbAbbrStroke">̄</g>?</hi>
+               </l>
+               <l>
+                  <hi>Vivere dum didicit ſic didicitne Mori?</hi>
+               </l>
+               <l>
+                  <hi>Iam poterat <hi>CAROLO</hi> partemfeciſse Senatûs,</hi>
+               </l>
+               <l>
+                  <hi>Vel Iuvenis Pectus iam Synodale gerens.</hi>
+               </l>
+               <pb n="29" facs="tcp:14222:17"/>
+               <l>
+                  <hi>Iam<expan>
+                        <am>
+                           <g ref="char:abque"/>
+                        </am>
+                        <ex>que</ex>
+                     </expan> Vias poter at monſtraſse, Artesque nocendi,</hi>
+               </l>
+               <l>
+                  <hi>Tristius &amp; quicquid Roma recondit opus.</hi>
+               </l>
+               <l>
+                  <hi>Sed tantum poterat: vetuisti caetera, Fatum:</hi>
+               </l>
+               <l>
+                  <hi>Non erat haec cultro victima digna Tuo.</hi>
+               </l>
+               <l>
+                  <hi>Inſidioſa Manus nunquam ſua Munera struxit:</hi>
+               </l>
+               <l>
+                  <hi>Pars vel ſimplicitas Muneris ipſa fuit.</hi>
+               </l>
+               <l>
+                  <hi>Te teſtor tam digna Domus, quae Nomina iactas</hi>
+               </l>
+               <l>
+                  <hi>Cui geminum ornatum, Semet, Opeſ<expan>
+                        <am>
+                           <g ref="char:abque"/>
+                        </am>
+                        <ex>que</ex>
+                     </expan> dedit.</hi>
+               </l>
+               <l>
+                  <hi>Incola ſic Homines auxit, ſic Tecta Patronus,</hi>
+               </l>
+               <l>
+                  <hi>Nunc Vno pluſquam Nomine noſter Amor.</hi>
+               </l>
+               <l>
+                  <hi>O Impar, ſed Grata Aedes! utinam<expan>
+                        <am>
+                           <g ref="char:abque"/>
+                        </am>
+                        <ex>que</ex>
+                     </expan> decorem</hi>
+               </l>
+               <l>
+                  <hi>Tu poteras Illi, quem dedit Ille Tibi.</hi>
+               </l>
+               <closer>
+                  <signed>IO. GIARE ex Aed. Ch.</signed>
+               </closer>
+            </div>
+            <div xml:lang="lat" type="poem__lamentation">
+               <l>
+                  <hi>PVllos, quiſquis es, induas colores,</hi>
+               </l>
+               <l>
+                  <hi>Orna funereâ caput Cupreſso;</hi>
+               </l>
+               <l>
+                  <hi>Ite hinc deliciae, Venus, Cupido;</hi>
+               </l>
+               <l>
+                  <hi>Noſtrae deliciae dolor, querelae.</hi>
+               </l>
+               <l>
+                  <hi>Heu gentis periit decus Britannae,</hi>
+               </l>
+               <l>
+                  <hi>Lumen<expan>
+                        <am>
+                           <g ref="char:abque"/>
+                        </am>
+                        <ex>que</ex>
+                     </expan>, &amp; columen novem ſororum,</hi>
+               </l>
+               <l>
+                  <hi>In flore heu periit peremptus Aevi.</hi>
+               </l>
+               <l>
+                  <hi>Vixiſti Iuvenis diu, Senectam</hi>
+               </l>
+               <l>
+                  <hi>Virtutes faciunt, brevi Tabellâ</hi>
+               </l>
+               <l>
+                  <hi>Depictum videas ferum Gygantem.</hi>
+               </l>
+               <l>
+                  <hi>At mores ſileo, ſilere praeſtat,</hi>
+               </l>
+               <l>
+                  <hi>Quam praeconia frigidè referre.</hi>
+               </l>
+               <pb n="30" facs="tcp:14222:18"/>
+               <l>
+                  <hi>Ite meae Lachrymae, tanquàm de Nube procellae,</hi>
+               </l>
+               <l>
+                  <hi>Cum nimis ingenti pondere preſsa ruit.</hi>
+               </l>
+               <l>
+                  <hi>Proh dolor! heu periit, per luctûs edere Nomen</hi>
+               </l>
+               <l>
+                  <hi>Vix poſsum, in primo Veris honore ſui.</hi>
+               </l>
+               <l>
+                  <hi>Non tamen hoc credam, iuvat uſ<expan>
+                        <am>
+                           <g ref="char:abque"/>
+                        </am>
+                        <ex>que</ex>
+                     </expan> favere dolori,</hi>
+               </l>
+               <l>
+                  <hi>Sed nequeo, hoc dolor eſt, non doluiſse ſatis.</hi>
+               </l>
+               <l>
+                  <hi>Moeſtum Phoebe canas; lugete, haud ludite Muſae,</hi>
+               </l>
+               <l>
+                  <hi>Nam<expan>
+                        <am>
+                           <g ref="char:abque"/>
+                        </am>
+                        <ex>que</ex>
+                     </expan> eſt conveniens luctibus iſte labor.</hi>
+               </l>
+               <l>
+                  <hi>Huic ſacram lauri tumulo deferte Tributum,</hi>
+               </l>
+               <l>
+                  <hi>Vos aluit, quamvis vester Alumnus erat.</hi>
+               </l>
+               <l>
+                  <hi>Addere nil cupimus, cui nil queat altius addi:</hi>
+               </l>
+               <l>
+                  <hi>Si nil diminuam, carmina noſtra placent.</hi>
+               </l>
+               <l>
+                  <hi>Te nimis indigno dum flemus carmine, duplex</hi>
+               </l>
+               <l>
+                  <hi>Exoritur <gap reason="illegible" resp="#OXF" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>uctus, Carminis, at<expan>
+                        <am>
+                           <g ref="char:abque"/>
+                        </am>
+                        <ex>que</ex>
+                     </expan> Tui.</hi>
+               </l>
+               <closer>
+                  <signed>I. FELL ex Aed. Ch.</signed>
+               </closer>
+            </div>
+            <div xml:lang="lat" type="poem__lamentation">
+               <head>In Obitum Clariſſimi, Ornatſſimique Vice<g ref="char:EOLhyphen"/>comitis BAYNING.</head>
+               <lg>
+                  <l>
+                     <hi>HOſpes Deorum, naenias ſi quis Tibi</hi>
+                  </l>
+                  <l>
+                     <hi>Facileſ<expan>
+                           <am>
+                              <g ref="char:abque"/>
+                           </am>
+                           <ex>que</ex>
+                        </expan> luctu palpebras effunderet,</hi>
+                  </l>
+                  <l>
+                     <hi>Nec pauciores laudibus Lacrymas Tuis</hi>
+                  </l>
+                  <l>
+                     <hi>Semper fluentes, &amp; tamen ſemper novas,</hi>
+                  </l>
+                  <l>
+                     <hi>Multum litabit Funeri, minimum Tibi.</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <l>
+                     <hi>Si, quos Poetae vix ſatis Calamis pios</hi>
+                  </l>
+                  <l>
+                     <hi>Mittant liquores, hauriant ſuum licet</hi>
+                  </l>
+                  <l>
+                     <hi>Helicona ſtudiis; ſi, quot attulerint tuo</hi>
+                  </l>
+                  <pb n="31" facs="tcp:14222:18"/>
+                  <l>
+                     <hi>Onus feretro, Chartulae innumeras atrae</hi>
+                  </l>
+                  <l>
+                     <hi>Lachrymas refundant; his amicae Coniugis</hi>
+                  </l>
+                  <l>
+                     <hi>Fratru<g ref="char:cmbAbbrStroke">̄</g>, &amp; nepotu<g ref="char:cmbAbbrStroke">̄</g> at<expan>
+                           <am>
+                              <g ref="char:abque"/>
+                           </am>
+                           <ex>que</ex>
+                        </expan> omnium quot ſunt Tui</hi>
+                  </l>
+                  <l>
+                     <hi>Addam Lachrymulas, ut dolor ſiet unicus,</hi>
+                  </l>
+                  <l>
+                     <hi>Vt<expan>
+                           <am>
+                              <g ref="char:abque"/>
+                           </am>
+                           <ex>que</ex>
+                        </expan> tot ocellis unicam Lacrymam, ſtruat,</hi>
+                  </l>
+                  <l>
+                     <hi>Quam Charus eſſes dixerit, Quantus nequit.</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <l>
+                     <hi>Si quis, tacendo quos Tibi numeres Avos,</hi>
+                  </l>
+                  <l>
+                     <hi>A Te relatum stemma nobile computet</hi>
+                  </l>
+                  <l>
+                     <hi>Seriem<expan>
+                           <am>
+                              <g ref="char:abque"/>
+                           </am>
+                           <ex>que</ex>
+                        </expan> laudum cenſeat, Merita &amp; necis,</hi>
+                  </l>
+                  <l>
+                     <hi>Pietate posthumâ colentis Numina,</hi>
+                  </l>
+                  <l>
+                     <hi>Donata Templis ſi quis, &amp; Muſis pium</hi>
+                  </l>
+                  <l>
+                     <hi>Vectigal audit, quae<expan>
+                           <am>
+                              <g ref="char:abque"/>
+                           </am>
+                           <ex>que</ex>
+                        </expan> perpetuum in Decus</hi>
+                  </l>
+                  <l>
+                     <hi>Loquax Sepulchrum jactet, huic adhuc lates:</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <l>
+                     <hi>Aut ſi quis ultrà, praeter has dotes Tuas</hi>
+                  </l>
+                  <l>
+                     <hi>Sacram<expan>
+                           <am>
+                              <g ref="char:abque"/>
+                           </am>
+                           <ex>que</ex>
+                        </expan> famam, vel parùm referat Tui,</hi>
+                  </l>
+                  <l>
+                     <hi>Quam non modeſtè flere, dum memorat, licet.</hi>
+                  </l>
+                  <l>
+                     <hi>Quantas iuventus nobilis, &amp; aetas ſagax</hi>
+                  </l>
+                  <l>
+                     <hi>Vtriuſ<expan>
+                           <am>
+                              <g ref="char:abque"/>
+                           </am>
+                           <ex>que</ex>
+                        </expan> Terrae literas excoxerat!</hi>
+                  </l>
+                  <l>
+                     <hi>
+                        <hi>Oxonia</hi> quantum debet &amp; Conatibus</hi>
+                  </l>
+                  <l>
+                     <hi>Tuiſ<expan>
+                           <am>
+                              <g ref="char:abque"/>
+                           </am>
+                           <ex>que</ex>
+                        </expan> meritis! Ast adhuc nimium lates:</hi>
+                  </l>
+                  <l>
+                     <hi>Majora dictis Nomen ipſum praedicat;</hi>
+                  </l>
+                  <l>
+                     <hi>Sed quiſquis iſtud noveris, taceas precor,</hi>
+                  </l>
+                  <l>
+                     <hi>Ne Fama, tanti dum ſubit Cineres viri,</hi>
+                  </l>
+                  <l>
+                     <hi>Non poſterorum Cultum, at Invidiam trahat.</hi>
+                  </l>
+               </lg>
+               <closer>
+                  <signed>RICARDVS GODFREY ex Aed. Ch.</signed>
+               </closer>
+            </div>
+            <div xml:lang="lat" type="poem__lamentation">
+               <pb n="32" facs="tcp:14222:19"/>
+               <head>In Obitum Clariſſimi Uicecomitis BAYNING.</head>
+               <l>
+                  <hi>MVndi, Doctus opes, ſuaſ<expan>
+                        <am>
+                           <g ref="char:abque"/>
+                        </am>
+                        <ex>que</ex>
+                     </expan> ſpernens,</hi>
+               </l>
+               <l>
+                  <hi>Uiſens una hominum docenſ<expan>
+                        <am>
+                           <g ref="char:abque"/>
+                        </am>
+                        <ex>que</ex>
+                     </expan> mores;</hi>
+               </l>
+               <l>
+                  <hi>Paſsim barbariem, viroſ<expan>
+                        <am>
+                           <g ref="char:abque"/>
+                        </am>
+                        <ex>que</ex>
+                     </expan> brutos</hi>
+               </l>
+               <l>
+                  <hi>Conſpectu cicurans, domanſ<expan>
+                        <am>
+                           <g ref="char:abque"/>
+                        </am>
+                        <ex>que</ex>
+                     </expan> terras;</hi>
+               </l>
+               <l>
+                  <hi>Magnus Moribus, inde major Arte:</hi>
+               </l>
+               <l>
+                  <hi>Sub quo Regna velint coire pace,</hi>
+               </l>
+               <l>
+                  <hi>Praeſentem<expan>
+                        <am>
+                           <g ref="char:abque"/>
+                        </am>
+                        <ex>que</ex>
+                     </expan> colunt, timent futurum,</hi>
+               </l>
+               <l>
+                  <hi>Legati decus Hic tulit Viator,</hi>
+               </l>
+               <l>
+                  <hi>Flammas <hi>Italiae</hi> Alpium pruinis,</hi>
+               </l>
+               <l>
+                  <hi>Gallam luxuriem mari <hi>Britanno</hi>
+                  </hi>
+               </l>
+               <l>
+                  <hi>Reſtinguens, redit Innocens, &amp; <hi>Anglus.</hi>
+                  </hi>
+               </l>
+               <l>
+                  <hi>Virtutes numerans, tuam<expan>
+                        <am>
+                           <g ref="char:abque"/>
+                        </am>
+                        <ex>que</ex>
+                     </expan> vitam</hi>
+               </l>
+               <l>
+                  <hi>Certans per tua computare facta,</hi>
+               </l>
+               <l>
+                  <hi>Haud credet juvenem fuiſse mundus.</hi>
+               </l>
+               <l>
+                  <hi>Nunc ecce ad Tumulum frequens Viator</hi>
+               </l>
+               <l>
+                  <hi>Devoto pede confluit, nec unus</hi>
+               </l>
+               <l>
+                  <hi>Dat ſuſpiria Lachrymaſque Princeps,</hi>
+               </l>
+               <l>
+                  <hi>Cui multum ſterilem exprobrat ſenectam,</hi>
+               </l>
+               <l>
+                  <hi>Et ſerum meritum ſagax juventa:</hi>
+               </l>
+               <l>
+                  <hi>Nunc florum vice laudibus Sepulchrum</hi>
+               </l>
+               <l>
+                  <hi>Spargens &amp; titulis, utrinque civem</hi>
+               </l>
+               <l>
+                  <hi>Certat ſcribere, vendicatque funus</hi>
+               </l>
+               <l>
+                  <hi>Paſsim terra tuum: Quirinus effert</hi>
+               </l>
+               <l>
+                  <hi>Inter Papirios, &amp; Africanos:</hi>
+               </l>
+               <l>
+                  <hi>Hinc Princeps juvenum, ſenumque Princeps,</hi>
+               </l>
+               <pb n="33" facs="tcp:14222:19"/>
+               <l>
+                  <hi>Et non Foemineus Quirinus audis.</hi>
+               </l>
+               <l>
+                  <hi>Hinc &amp; Gallus eris, ſed ille caſtus,</hi>
+               </l>
+               <l>
+                  <hi>Et non Mente magis nitens Lacernâ:</hi>
+               </l>
+               <l>
+                  <hi>Sic tu, dum numerus videris, exis</hi>
+               </l>
+               <l>
+                  <hi>Multorum Invidia, Vnius Triumphus.</hi>
+               </l>
+               <l>
+                  <hi>Hoc jactat nimium Britanna tellus,</hi>
+               </l>
+               <l>
+                  <hi>Orbi vixerat, at Mihi receſsit.</hi>
+               </l>
+               <closer>
+                  <signed>THOMAS BENSON ex Aed. Ch.</signed>
+               </closer>
+            </div>
+            <div xml:lang="lat" type="poem__lamentation">
+               <head>In Obitum Illuſtriſſimi Vice-Comitis BAYNING.</head>
+               <l>
+                  <hi>MOx ergò exilium, Redux, ſub ipſo</hi>
+               </l>
+               <l>
+                  <hi>Amplexu Patriae datur? ſceluſque</hi>
+               </l>
+               <l>
+                  <hi>Tantum admiſit Amor, quod auſ<gap reason="illegible" resp="#OXF" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap> nuſquàm</hi>
+               </l>
+               <l>
+                  <hi>Gens est extera? Quaequè Te recepit</hi>
+               </l>
+               <l>
+                  <hi>Non Adventitium, ſed Inquilinum:</hi>
+               </l>
+               <l>
+                  <hi>Gallia, perque vices Paterna Terra</hi>
+               </l>
+               <l>
+                  <hi>Facta est Roma Tibi: Omnibus probatum</hi>
+               </l>
+               <l>
+                  <hi>Virtus Te dedit, Omniumquè civem:</hi>
+               </l>
+               <l>
+                  <hi>Certè hoc Numinis est colitàm ubiquè,</hi>
+               </l>
+               <l>
+                  <hi>Dum cunabula nactus es Sepulchrum</hi>
+               </l>
+               <l>
+                  <hi>Motus Aethereosſecutus, in Te</hi>
+               </l>
+               <l>
+                  <hi>Sacro circuitu reductus, exis</hi>
+               </l>
+               <l>
+                  <hi>Exemplar Superum, ſedes perennis</hi>
+               </l>
+               <l>
+                  <hi>Vitae Emblema Neciſquè. Sic in ortus</hi>
+               </l>
+               <l>
+                  <hi>Festinare ſuos, retroque labi,</hi>
+               </l>
+               <l>
+                  <hi>Quicquid Fata jubent perire, fas eſt.</hi>
+               </l>
+               <pb n="34" facs="tcp:14222:20"/>
+               <l>
+                  <hi>Sic &amp; quod maneat perenne, eodem</hi>
+               </l>
+               <l>
+                  <hi>Iuxtà deſinit incipitque curſu,</hi>
+               </l>
+               <l>
+                  <hi>Vitâ hac nulla prior, beatiorque</hi>
+               </l>
+               <l>
+                  <hi>Quam quae eſt Spharica, ſeque claudit ipſam.</hi>
+               </l>
+               <closer>
+                  <signed>ROEBRTVS SHARPE ex Aed. Ch.</signed>
+               </closer>
+            </div>
+            <div xml:lang="lat" type="poem__lamentation">
+               <head>In Obitum Clariſſimi Vicecomitis BAYNING.</head>
+               <l>
+                  <hi>OBitum nunc lugeamus an Diſceſſum neſcimus,</hi>
+               </l>
+               <l>
+                  <hi>Has etenim exequias olim &amp; Diſceſſus habuit,</hi>
+               </l>
+               <l>
+                  <hi>Cum Amentium ritu opes projecimus in Mare</hi>
+               </l>
+               <l>
+                  <hi>Gemmamque Thetidis Gazâ magis pretioſa<g ref="char:cmbAbbrStroke">̄</g>
+                  </hi>
+               </l>
+               <l>
+                  <hi>Suſpiriis mox nostris, &amp; Lachrymaru<g ref="char:cmbAbbrStroke">̄</g> fluctibus reve henda<g ref="char:cmbAbbrStroke">̄</g>.</hi>
+               </l>
+               <l>
+                  <hi>Oſtendi voluerunt Terris Fata, donari nimiu<g ref="char:cmbAbbrStroke">̄</g> eſſe iudi<g ref="char:EOLhyphen"/>carunt,</hi>
+               </l>
+               <l>
+                  <hi>Magis Orbis Spectatore<g ref="char:cmbAbbrStroke">̄</g> quàm Spectaculu<g ref="char:cmbAbbrStroke">̄</g>,</hi>
+               </l>
+               <l>
+                  <hi>Solis inſtar in tranſitu ſolo fruendum;</hi>
+               </l>
+               <l>
+                  <hi>Hunc Reliquae etiam Gentes damna inter ſua</hi>
+               </l>
+               <l>
+                  <hi>Per vices numerarunt.</hi>
+               </l>
+               <l>
+                  <hi>Atque utinam nunc velpaſciſceremur iſtis</hi>
+               </l>
+               <l>
+                  <hi>Iniquis Legibus potirè,</hi>
+               </l>
+               <l>
+                  <hi>Poſſet ut iterum diſcedere</hi>
+               </l>
+               <l>
+                  <hi>Vt ſecundâ frueremur vel iacturâ!</hi>
+               </l>
+               <l>
+                  <hi>Religione<g ref="char:cmbAbbrStroke">̄</g> &amp; Mores non ta<g ref="char:cmbAbbrStroke">̄</g> perluſtrare viſus quàm in<g ref="char:EOLhyphen"/>ſtituere:</hi>
+               </l>
+               <l>
+                  <hi>Non extra Patria<g ref="char:cmbAbbrStroke">̄</g> Lege<g ref="char:cmbAbbrStroke">̄</g> licentiam pecccandi quaeſivit,</hi>
+               </l>
+               <l>
+                  <hi>Et magna ſcelerum Exempla:</hi>
+               </l>
+               <l>
+                  <hi>Istâ Pietate Hoſpitia quaſi Templa pererrans,</hi>
+               </l>
+               <l>
+                  <hi>Vt qui devotis paſsibus Itinera metiuntur</hi>
+               </l>
+               <l>
+                  <hi>Numini dedicata, non Amicae,</hi>
+               </l>
+               <pb n="35" facs="tcp:14222:20"/>
+               <l>
+                  <hi>Propè fuit ut ab eo exigerentur miracula;</hi>
+               </l>
+               <l>
+                  <hi>Atque adeo haec miracula praeſtitit,</hi>
+               </l>
+               <l>
+                  <hi>Vt Virtutis patiens, non Voluptatis</hi>
+               </l>
+               <l>
+                  <hi>Palladem Iunoni conciliaret, Literis Divitias,</hi>
+               </l>
+               <l>
+                  <hi>Innocentiam Poteſtati;</hi>
+               </l>
+               <l>
+                  <hi>Et vel poſt mortem Lyceum Coleret.</hi>
+               </l>
+               <l>
+                  <hi>Haud tame<g ref="char:cmbAbbrStroke">̄</g> illud Poetas feciſſe pecuniae reos, &amp; Heli<gap reason="illegible" resp="#OXF" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>
+                     <g ref="char:EOLhyphen"/>na in Tagum vertiſſe</hi>
+               </l>
+               <l>
+                  <hi>Effecit, ut Damnum Tui non Iugeamus,</hi>
+               </l>
+               <l>
+                  <hi>Quodque unum reſtat, non iactemus.</hi>
+               </l>
+               <l>
+                  <hi>Sole haec tristis Gloria nos manet, habuiſse</hi>
+               </l>
+               <l>
+                  <hi>Olim Incolam, ſempèr Patronum:</hi>
+               </l>
+               <l>
+                  <hi>Brevi fulgore aliis Cometa illuxiſti,</hi>
+               </l>
+               <l>
+                  <hi>Nobis manſurum Sydus,</hi>
+               </l>
+               <l>
+                  <hi>Orbis idem ſpectaculum &amp; ſtupor:</hi>
+               </l>
+               <l>
+                  <hi>Solum hìc Te faſtus arguit, quod orbem</hi>
+               </l>
+               <l>
+                  <hi>Videris &amp; contempſeris;</hi>
+               </l>
+               <l>
+                  <hi>Perluſtrato Terrarum Orbe alium modò quaeris, quaſi illum moderaturus:</hi>
+               </l>
+               <l>
+                  <hi>Velut Cretenſis Iupiter in aſtra evadis</hi>
+               </l>
+               <l>
+                  <hi>Nota Peregrints, Hiſtoria, ſacra Tuis Fabula.</hi>
+               </l>
+               <closer>
+                  <signed>SAMVEL EVERARD. ex Aed. Ch.</signed>
+               </closer>
+            </div>
+            <div xml:lang="lat" type="poem__lamentation">
+               <pb n="36" facs="tcp:14222:21"/>
+               <head>In Obitum Clariſſimi Vicecomitis BAYNING.</head>
+               <l>
+                  <hi>I Vvenis moritur qui vixit Neſtor,</hi>
+               </l>
+               <l>
+                  <hi>Vnius aetatis compendium</hi>
+               </l>
+               <l>
+                  <hi>Non vidit, qui ultrae</hi>
+               </l>
+               <l>
+                  <hi>Tertia hiſtoriam fecit.</hi>
+               </l>
+               <l>
+                  <hi>Corpore venuſtus, ut cui non defuit</hi>
+               </l>
+               <l>
+                  <hi>Dignum ſuis moribus Sacrarium.</hi>
+               </l>
+               <l>
+                  <hi>Tam Nobilis, ac ſi nullo caruerat a Virtutibus or<g ref="char:EOLhyphen"/>namento</hi>
+               </l>
+               <l>
+                  <hi>Tam bonus, ac ſi nullum habuerat a Parentibus.</hi>
+               </l>
+               <l>
+                  <hi>
+                     <hi>Italiam</hi> vidit, vidit <hi>Galliam,</hi>
+                  </hi>
+               </l>
+               <l>
+                  <hi>Vna non potuit capere Regio:</hi>
+               </l>
+               <l>
+                  <hi>
+                     <hi>Italiam</hi> deſeruit, deſeruit <hi>Galliam,</hi>
+                  </hi>
+               </l>
+               <l>
+                  <hi>Nulla potuit Regie mereri.</hi>
+               </l>
+               <l>
+                  <hi>Illic cepit, quò nos nec pervenire ſolemus;</hi>
+               </l>
+               <l>
+                  <hi>dubiu<g ref="char:cmbAbbrStroke">̄</g> an cunis Infantia<g ref="char:cmbAbbrStroke">̄</g> debuerit, an Lyceo.</hi>
+               </l>
+               <l>
+                  <hi>Artes nil tandem pulchri iactitant,</hi>
+               </l>
+               <l>
+                  <hi>Niſi quod Ipſe didicit.</hi>
+               </l>
+               <l>
+                  <hi>Pauciſsimis vix potuit eliquari vitiis</hi>
+               </l>
+               <l>
+                  <hi>Cadaver viſus antequam moreretur,</hi>
+               </l>
+               <l>
+                  <hi>Aliquando peccavit ne videretur Deus,</hi>
+               </l>
+               <l>
+                  <hi>Laudandus etiam quod peccavit.</hi>
+               </l>
+               <l>
+                  <hi>Vxorem duxit, ut &amp; illum ornaret ſexum;</hi>
+               </l>
+               <l>
+                  <hi>Vxorem invenit, quae ornaret &amp; noſtrum.</hi>
+               </l>
+               <l>
+                  <hi>Amaretalem ſatis non potuit,</hi>
+               </l>
+               <l>
+                  <hi>Si non Amore obiiſſet.</hi>
+               </l>
+               <pb n="37" facs="tcp:14222:21"/>
+               <l>
+                  <hi>Divitias numeravit, ſed quas dederat;</hi>
+               </l>
+               <l>
+                  <hi>Opum non habuit, ſed Munerum Aerarium.</hi>
+               </l>
+               <l>
+                  <hi>An dedit? en tandem ſibi nec Ipſum reliquit:</hi>
+               </l>
+               <l>
+                  <hi>Quem, cum deeſset qui caperet, cepit Sepulchru<g ref="char:cmbAbbrStroke">̄</g>:</hi>
+               </l>
+               <l>
+                  <hi>Gemmas recondi Nimium ſic Pretium facit.</hi>
+               </l>
+            </div>
+            <div xml:lang="eng" type="poem__lamentation">
+               <lg>
+                  <l>He that attempts to mourne thy noble Herſe,</l>
+                  <l>Muſt teach his griefe the Piety of Verſe,</l>
+                  <l>And all his teares in chaſt expreſſions paint,</l>
+                  <l>That every line may Canonize a Saint:</l>
+                  <l>He ought to Preach in <hi>Numbers,</hi> as if Fate</l>
+                  <l>Had deſtin'd Him for Biſhop Laureate.</l>
+                  <l>Who then ſhall weepe thy loſſe, whoſe Acts we ſee fel,</l>
+                  <l>Farre purer then our veſtall phanſies be?</l>
+                  <l>W'admire thoſe deeds which from Thee ſlightly</l>
+                  <l>Thy Recreation fills the Chronicle:</l>
+                  <l>And Poets ſhould be ſet to curbe the times,</l>
+                  <l>Could their Wits be ſo Pious as Thy Crimes.</l>
+                  <l>Thou didſt ingroſſe all goodneſſe ſo, that Wee</l>
+                  <l>Scarce thought one Heroe dead, while we ſaw Thee.</l>
+                  <l>We miſs'd not <hi>Cato, Tully</hi> was not dumbe,</l>
+                  <l>Thou could'ſt (like him) but ſpeake, and overcome.</l>
+                  <l>What Stratagem has Fate? thy fading breath</l>
+                  <l>Summons ſage <hi>Brutus</hi> to a Second Death.</l>
+                  <l>Soules treaſur'd up in Thee ruſh forth, and now</l>
+                  <l>Some fall, that fell two thouſand yeares agoe.</l>
+               </lg>
+               <lg>
+                  <l>Here prune your manners, you that only are</l>
+                  <l>The walking Arras of the Court, who ſhare (face)</l>
+                  <l>Your ſelves (like Hangins deckt with ſome ſtrange</l>
+                  <l>T'attend the King only to trim the place.</l>
+                  <pb n="38" facs="tcp:14222:22"/>
+                  <l>Whoſe weake Gentility does fall, and riſe</l>
+                  <l>As Periwigs and Sattins take their price:</l>
+                  <l>Whoſe carriage one may track, &amp; find which Oath</l>
+                  <l>Your Worſhips ſwore in ſilk, and which in cloath.</l>
+                  <l>If you could learne this ripeneſſe, it would teach</l>
+                  <l>To court a Miſtreſſe in an unbought ſpeech;</l>
+                  <l>And your owne Language might have power to move</l>
+                  <l>A frozen coyneſſe to a free Court-Love:</l>
+                  <l>And make her y<gap reason="illegible" resp="#OXF" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>e ſuch charming pleaſures heare,</l>
+                  <l>That her Soule know no reſidence but eare.</l>
+               </lg>
+               <lg>
+                  <l>But I doe blaſt thy Herſe, and theſe weake Layes</l>
+                  <l>Doe only uſher Some to ſing Thy Praiſe,</l>
+                  <l>As ſcattered beames their dawning luſtre broach,</l>
+                  <l>Only to tell the world the Sun's approach.</l>
+                  <l>As if the Prieſt ſhould butcher a cheape Lambe,</l>
+                  <l>To fit the Altar for an Hecatombe.</l>
+                  <l>He that will ſpeake Thee fully, muſt have parts</l>
+                  <l>Like to Thine Owne, and hunt Thee through all Arts:</l>
+                  <l>His able yeares muſt bud up, till he find,</l>
+                  <l>What myſteries enrich't thy well-fraught mind;</l>
+                  <l>Who didſt ſo wade through Natural things, that we</l>
+                  <l>May ſhake off Nature now, and ſtudy Thee.</l>
+               </lg>
+               <lg>
+                  <l>Had'ſt thou bred low-pitch<gap reason="illegible" resp="#OXF" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>t ve<gap reason="illegible" resp="#OXF" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>ues, had thy Vein</l>
+                  <l>Stoop'd to the ſhallow ebbe of vulgar ſtrain,</l>
+                  <l>Each buſie Muſe had ſtrove to find a roome,</l>
+                  <l>Where crowds of Epitaphs might load thy Tomb,</l>
+                  <l>But now we feare to write, we dare no<gap reason="illegible" resp="#OXF" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> ſtay</l>
+                  <l>To bring ou<gap reason="illegible" resp="#OXF" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> twilight Glances to thy Day:</l>
+                  <l>Such is Thy Vertues flight, thou ſoar'ſt ſo high,</l>
+                  <l>Thy weakeſt Acts aske our Hyperboly;</l>
+                  <pb n="39" facs="tcp:14222:22"/>
+                  <l>And all th' elaborate Accents we can lend,</l>
+                  <l>Can ſcarce deſerve Thee where thou doſt offend.</l>
+                  <l>Hence forth we'le prize our Muſe at lower rate,</l>
+                  <l>And what we can't expreſſe, we'le imitate,</l>
+                  <l>We'le Print Thee in our manners ſo, that then</l>
+                  <l>Who finds Thee not in Records, may in Men.</l>
+               </lg>
+               <lg>
+                  <l>They only, here, find their expreſſions ſafe,</l>
+                  <l>Who Act their Verſe, and Live an Epitaph.</l>
+               </lg>
+               <closer>
+                  <signed>MARTIN LLEVVELLIN. of Ch. Ch.</signed>
+               </closer>
+            </div>
+            <div xml:lang="eng" type="poem__lamentation">
+               <head>Vpon the Death of the Right Honourable Lord Vicecount BAYNING.</head>
+               <l>FOrgive me, His deare Monument, that I</l>
+               <l>Vſurpe the Title of an Elegy;</l>
+               <l>And like a wandring Paſſenger doe crave</l>
+               <l>My unknowne teares may glaze his Epitaph!</l>
+               <l>Whoever heard his Travells, but did ceaſe</l>
+               <l>To think Rome falſe, or France with a diſeaſe?</l>
+               <l>So farre from an outlandiſh Taint, that Hee</l>
+               <l>Return'd a chaſter Mind from Italie.</l>
+               <l>Learne here you wilde Apoſtates that deface</l>
+               <l>Your Native Soules, and mold 'em to the Place;</l>
+               <l>So that each Country gives you a new Birth,</l>
+               <l>Antaeus like reviving from the Earth:</l>
+               <l>BAYNING did ſcorne to change himſelfe but then</l>
+               <l>When fartheſt off, He was an Engliſh-man:</l>
+               <pb n="40" facs="tcp:14222:23"/>
+               <l>Our Lawes ſtill kept Him Company: for they</l>
+               <l>Were the Geography, and rule of 's way:</l>
+               <l>So that to forreigne parts He did appeare</l>
+               <l>Rather Embaſſadour, then Sojourner.</l>
+               <l>Why did He ſcape His Travells thus, O why</l>
+               <l>Did he fall downe with ſuch Tranquillity?</l>
+               <l>Horrour becomes a Young man's Death, to lie</l>
+               <l>Bedew'd with Blood is a brave obſequie.</l>
+               <l>Surfets, Conſumptions are but Female Knives,</l>
+               <l>Nor doe they ſnatch, but ſteale away our Lives.</l>
+               <l>Fates did not know thy Spirit, when they ſent</l>
+               <l>So weake a dart to blaſt thy Monument:</l>
+               <l>Thy Genius was too mighty to endure</l>
+               <l>That extreame cowardize, to die Secure.</l>
+               <l>But ſince it did our great Commander pleaſe,</l>
+               <l>Thus to inflict the Death of a diſeaſe;</l>
+               <l>In earneſt of our Loves, O let it be</l>
+               <l>Our wiſh to fall Secure, becauſe like Thee.</l>
+               <l>For Thy ſake then may Feavers be our Meate,</l>
+               <l>And 't prove a Surfet henceforth but to Eate:</l>
+               <l>None can deſire to live, unleſſe he be</l>
+               <l>Seduc'd perhaps t'enjoy Thy Legacie.</l>
+               <l>'Tis Thy owne freeneſſe bribes us now to live,</l>
+               <l>Since 't were ingratitude not to ſurvive.</l>
+               <l>Our Buildings by Thy Piety ſhall ſtand</l>
+               <l>No Ruines now, but Trophyes of Thy Hand:</l>
+               <l>The Roomes ſhall be Thy Piles, we will preferre</l>
+               <l>Their beauteous Order to thy Character:</l>
+               <l>When Printed on the doores with loaded eyes</l>
+               <l>The Paſſenger may read HERE BAYNING LIES.</l>
+               <closer>
+                  <signed>H. RAMSAY of Ch. Ch.</signed>
+               </closer>
+            </div>
+            <div xml:lang="eng" type="poem__lamentation">
+               <pb n="41" facs="tcp:14222:23"/>
+               <head>On the Death of the Lord Viſcount BAYNING.</head>
+               <l>SInce Sadnes crowns Your hearſe, &amp; Mourners</l>
+               <l>Beſtow with ſighs, &amp; tears, a Method too</l>
+               <l>Of grieving for your death, that we may ſee doe</l>
+               <l>A good Contrivance though in Miſery:</l>
+               <l>Since among all that mourn, none Order lack,</l>
+               <l>The Wits in Rime, Your other Friends in Black.</l>
+               <l>Pardon my grief, that dares aſſume that Dreſſe,</l>
+               <l>For ſcatter'd in wild Fancles 'twould ſeem leſſe:</l>
+               <l>Yet doe I not preſume my verſe may give</l>
+               <l>Ought, that may cauſe Your memory to live:</l>
+               <l>I leave that great imployment to the Pen</l>
+               <l>Of Abler fancies, more Diſcerning Men;</l>
+               <l>That can Diſtinguiſh vertues, and beſt know</l>
+               <l>Which fro<g ref="char:cmbAbbrStroke">̄</g> Complexion, which fro<g ref="char:cmbAbbrStroke">̄</g> Breeding flow,</l>
+               <l>Which are Innate, and which Infus'd, that can</l>
+               <l>But with one glaunce decipher a whole man.</l>
+               <l>'Tis fancy 'enough in me, if I can weepe</l>
+               <l>Your Body, not as Dead, but fall'n a ſleepe.</l>
+               <l>Since no Continu'd greif, or lingring pain</l>
+               <l>No Trick o'th' State, nor ſad ſtroak hath it ſlain:</l>
+               <l>It goes freſh to the grave, before the ſinnes</l>
+               <l>Have ſeaſon'd it, that Age, and Buſineſſe brings:</l>
+               <l>Where let it ſleep ſecure, hence coming fit</l>
+               <l>T'embalme and keep the Odours, not they It.</l>
+               <pb n="42" facs="tcp:14222:24"/>
+               <l>The groans, and ſighes, that parting now it weares,</l>
+               <l>The Marble ſhall ſupply with frequent Teares.</l>
+               <closer>
+                  <signed>H. BENET of Ch. Ch.</signed>
+               </closer>
+            </div>
+            <div xml:lang="eng" type="poem__lamentation">
+               <head>On the death of the Honourable Lord Viſ-count BAYNING.</head>
+               <lg>
+                  <l>HEnce fro<g ref="char:cmbAbbrStroke">̄</g> This Tomb, you that have only choſe</l>
+                  <l>To Mourn for Ribbands, &amp; the ſadder Cloths,</l>
+                  <l>That Buy your Grief fro<g ref="char:cmbAbbrStroke">̄</g> th' Shop; &amp; deſperat lye</l>
+                  <l>For a new Cloak till the next Lord ſhall Dye;</l>
+                  <l>You that ſhed only wine, and think when all</l>
+                  <l>The Banquet's paſt, there's no more Funerall:</l>
+                  <l>You that ſell Teares, and only Weepe for Gaine,</l>
+                  <l>I dare not ſay you Mourn, but fill the Traine:</l>
+                  <l>Nor muſt we Grieve His Titles loſſe, and tell</l>
+                  <l>The vainer World, that 'twas a Great Man Fell:</l>
+                  <l>Tis not enough that we His Birth rehearſe;</l>
+                  <l>And only Write His Armes inſteed of Verſe,</l>
+                  <l>Or Steale Notes from His Scutcheon; perhaps we</l>
+                  <l>Might Mourn Him thus in perfect Heraldry:</l>
+                  <l>But 'tis a Strain too low, nor wil't ſuffice</l>
+                  <l>For Epitaph, that Here His Lordſhip Lyes:</l>
+                  <l>Thus I could be content to Weep His Fame,</l>
+                  <l>Where nothing elſe was great, beſides the Name;</l>
+                  <l>Whence Learning felt an Exile; where That Word</l>
+                  <l>Of Vertue ſounded Lower then my Lord:</l>
+                  <l>He whom we ſadly Mourne (hear this all You</l>
+                  <pb n="43" facs="tcp:14222:24"/>
+                  <l>Wrapt up in Chaines) was Rich in Learning too.</l>
+                  <l>A Colledge was His Home; He did not here</l>
+                  <l>Sit ſtill a while, and only change His Ayre,</l>
+                  <l>As ſome, who Iourney hither, and are grown</l>
+                  <l>But to this Art of wearing a ſilk Gowne;</l>
+                  <l>Who, 'mongſt Their other loſſe of Time, doe ſtill</l>
+                  <l>Count the halfe-year thus ſpent againſt Their Will;</l>
+                  <l>Who fain would croſſe the Seas, &amp; think, that They</l>
+                  <l>Have Travell'd thus far only out o'th' way:</l>
+                  <l>Nor did he count a Lord in a Degree</l>
+                  <l>A Learned Monſter of Nobility,</l>
+                  <l>As if ſome Envious Fate ſtrove to Maintaine</l>
+                  <l>That only Ignorance ſhould wear a Chaine.</l>
+                  <l>Gold was not all His Treaſury; We may</l>
+                  <l>Reckon His Wealth in more then ſhining Clay;</l>
+                  <l>Summe up His Stock of Arts and Knowledge; you</l>
+                  <l>That prize th'Eſtate count in His Study too;</l>
+                  <l>This is the Style of Honour, which we boaſt</l>
+                  <l>In Him, whoſe Fame doth ſtill Survive His Ghoſt.</l>
+                  <l>Nor quarrell We with Fate, for we ſhould wrong</l>
+                  <l>His Vertues now, to grieve that He Dy'd Young:</l>
+                  <l>One of His worth is alwaies full of Yeares;</l>
+                  <l>He Dy'd too ſoon by nothing but our Teares,</l>
+                  <l>Ripe Early, and prepar'd for Heaven, He</l>
+                  <l>Had all of Age, but the Infirmity:</l>
+                  <l>He was Religious and Stay'd, as One</l>
+                  <l>Whom Four-ſcore years thruſt to Devotion:</l>
+                  <l>One of That flowing Charity, as if ſtill</l>
+                  <l>In ev'ry Guift He did intend a Will:</l>
+                  <l>How He Bequeath'd His Almes! to all ſo free,</l>
+                  <pb n="44" facs="tcp:14222:25"/>
+                  <l>What ever He Beſtowd, was Legacy.</l>
+                  <l>Thus He had Many Heyres; and the bleſt Poore</l>
+                  <l>Did only Multiply His Succeſſour.</l>
+               </lg>
+               <lg>
+                  <l>But I'le not ſumme His Vertues; H'embrac't more</l>
+                  <l>Then all Philoſophy did Talk before;</l>
+                  <l>They only did Diſpute His Life, and might,</l>
+                  <l>Had They known Him, been better Skild to Write.</l>
+               </lg>
+               <closer>
+                  <signed>W. TOWERS of Ch. Ch.</signed>
+               </closer>
+            </div>
+            <div xml:lang="eng" type="poem__lamentation">
+               <head>Vpon the Death of the Lord Viſcount BAYNING.</head>
+               <l>VVErt Thou an ancient Corſe, of a gray head,</l>
+               <l>So ſpent, as to be thought run out, not dead;</l>
+               <l>Had'ſt Thou endur'd long gowtes, or longer rage</l>
+               <l>Of Aches, and at laſt dyed of long age;</l>
+               <l>At ſuch a funerall our Teares were loſt,</l>
+               <l>Where the grave makes not, but receives a Ghoſt.</l>
+               <l>Thou, when not ripe enough to live, didſt fall,</l>
+               <l>Even when thy Lady might Thee Lady call;</l>
+               <l>And like an early ſpring didſt ſhow to th' eye,</l>
+               <l>Signes of a fruitfull Autumne, and then dye.</l>
+               <l>Yet though Thou dy'dſt a Bloſſome, we were thoſe</l>
+               <l>Who could foreſee Thee blown, and judge Thee Roſe.</l>
+               <l>Thy after life was wrapt up in this bud,</l>
+               <l>As in a ſprout a faire flower's underſtood.</l>
+               <l>And as when men file rocks for Iewels, th'Ore</l>
+               <pb n="45" facs="tcp:14222:25"/>
+               <l>Shows ſparks, which would be ſtones two Ages more:</l>
+               <l>So we might ſay, had this young Diamond grown,</l>
+               <l>That which now twinkled, then had lightning thrown:</l>
+               <l>And as rich Exudations ſweat from th' Tree,</l>
+               <l>Are firſt ſoft gumms, not toucht, would Amber be:</l>
+               <l>Or as in th'Indyes men finde wealthy Mould,</l>
+               <l>Which the next generation diggs up gold.</l>
+               <l>So Thou lack'ſt but Concoction, ſeaven years more</l>
+               <l>Had made thoſe vertues true Mine, which died Ore.</l>
+               <l>Nay thou wert Bullion now, and we had ſeen,</l>
+               <l>Hadſt Thou liv'd longer, Maſſe had Medalls been.</l>
+               <l>Thy forwardneſſe lackt only ſtampe, and rate;</l>
+               <l>Thou wert true ſilver, but uncoyn'd by th'State.</l>
+               <l>Which did perceive thy title was as good</l>
+               <l>To honours, by thy Hopefulneſſe, as blood.</l>
+               <l>And had'ſt Thou ſtaid but to be call'd to th'Board,</l>
+               <l>The Worthy Man had taken place oth' Lord.</l>
+               <l>Then had we ſeen from Letters 'mongſt us ſowne</l>
+               <l>Thy Prince had Embaſſyes and Counſells mowne.</l>
+               <l>When that, which Thou Philoſophy took'ſt in,</l>
+               <l>Had come forth great Example, and Life bin.</l>
+               <l>Thy vertues were not leſſe, becauſe yet greene,</l>
+               <l>They might more ſeaſon'd, but not more have been:</l>
+               <l>Broader they might have bin, &amp; ſhown more ſweld,</l>
+               <l>Yet had the Leafe not more then th'Ingot held.</l>
+               <l>As from a clue Workmen large hangings call,</l>
+               <l>Yet all the ſilke in th' Arras, was ith' Ball.</l>
+               <l>In ſhort lives, great parts haſten, and come quick,</l>
+               <l>And where they want roome to be vaſt, are thick.</l>
+               <l>Even thy raw promiſes were perfect, lackt</l>
+               <pb n="46" facs="tcp:14222:26"/>
+               <l>Time but to make them aged, not exact.</l>
+               <l>Vntraveld Thou wert Learned, yet the Book</l>
+               <l>In Thee freſh learning from thy Travells took.</l>
+               <l>Thou cam'ſt home ſober fro<g ref="char:cmbAbbrStroke">̄</g> light Nations, <hi>France</hi>
+               </l>
+               <l>Taught Thee to ſit in Councell, not to dance.</l>
+               <l>
+                  <hi>Italian</hi> Policy Thou brought'ſt away,</l>
+               <l>Yet wert not made more able to betray:</l>
+               <l>Their Plots had been made Service, and that skill</l>
+               <l>Had been taught to Preſerve, which us'd to Kill.</l>
+               <l>Thy Merit, not thy Bowle, had made Thee Great;</l>
+               <l>No Office had fal'n to Thee by thy Meat.</l>
+               <l>Thou didſt returne ſo innocent, we could call</l>
+               <l>Nothing <hi>Italian</hi> but thy Funerall:</l>
+               <l>That was ſo ſudden, no ſucceſſours pill</l>
+               <l>Did Pope with more haſt, then thy ſurfet kill.</l>
+               <l>Prophets tranſlated were ſo raviſh't, bate</l>
+               <l>The ſenſe oth'pang, thy death was change, not fate.</l>
+               <l>Had'ſt Thou bequeath'd us nought, thy name had ſtill</l>
+               <l>Bin Legacy, t'have bin oth' houſe was Will:</l>
+               <l>And we in thy deare loſſe think w'are bereft</l>
+               <l>Of more, then if Thou had'ſt us whole heyres left.</l>
+               <l>Now ſince, like <hi>Wolſey,</hi> th'art expir'd, and gone,</l>
+               <l>We only can pay Reverence to thy Stone;</l>
+               <l>Which equall to His will this glory winne,</l>
+               <l>Thou help'ſt to Finiſh what He did Beginne.</l>
+               <closer>
+                  <signed>IASPER MAYNE of Ch. Ch.</signed>
+               </closer>
+            </div>
+            <div xml:lang="lat" type="poem__lamentation">
+               <pb n="47" facs="tcp:14222:26"/>
+               <head>PENELOPE, Multùm Deflendi Domini, VICECOMITIS BAYNING, Relictae Fidelisſimae</head>
+               <opener>Haec ſacro-</opener>
+               <l>
+                  <hi>VIvida quae Caſtos Tibi Flamma accendit Ocellos,</hi>
+               </l>
+               <l>
+                  <hi>Accendit illa Conjugis Pectus Tui:</hi>
+               </l>
+               <l>
+                  <hi>Et quos Ipſa geris radiantes or be Genarum,</hi>
+               </l>
+               <l>
+                  <hi>Hos Ille Flores Moribus geſsit ſuis:</hi>
+               </l>
+               <l>
+                  <hi>Qui<expan>
+                        <am>
+                           <g ref="char:abque"/>
+                        </am>
+                        <ex>que</ex>
+                     </expan> Tibi Cander totos illuminat Artus,</hi>
+               </l>
+               <l>
+                  <hi>Diem per Animum Lucidi ſparſit Viri.</hi>
+               </l>
+               <l>
+                  <hi>Sic Artus excudit Amor, ſic pingit Ocellos,</hi>
+               </l>
+               <l>
+                  <hi>Sic ſpectatintus, &amp; ſimul ſcribit Genas:</hi>
+               </l>
+               <l>
+                  <hi>Sic Te Te exhauſit Coniux, Te Teimbibit Vnam,</hi>
+               </l>
+               <l>
+                  <hi>Partem<expan>
+                        <am>
+                           <g ref="char:abque"/>
+                        </am>
+                        <ex>que</ex>
+                     </expan> quivis Actus emiſit Tui.</hi>
+               </l>
+               <l>
+                  <hi>Archetypa Amiſsam plorabis maesta Tabellam,</hi>
+               </l>
+               <l>
+                  <hi>Excripta tanquam poſset &amp; Imago Mori?</hi>
+               </l>
+               <l>
+                  <hi>Quantus erat Coniux, certè Tuus integer Ille;</hi>
+               </l>
+               <l>
+                  <hi>Vt Quanta Imago, eſt Corporis tota eſt ſui.</hi>
+               </l>
+               <l>
+                  <hi>In Te dicatur tantùm hinc Redijſse Maritus;</hi>
+               </l>
+               <l>
+                  <hi>Vt Vmbra nocte Corpus, unde exît, petit.</hi>
+               </l>
+               <l>
+                  <hi>Si Vultus, ſi Verba ejus, ſi Baſia quaeraes;</hi>
+               </l>
+               <l>
+                  <hi>Te Cerne, Te Affare, &amp; Tibi ſignes Labra.</hi>
+               </l>
+               <pb n="48" facs="tcp:14222:27"/>
+               <l>
+                  <hi>In Te ſplendet adhuc, &amp; adhuc in Te ſonat Ille,</hi>
+               </l>
+               <l>
+                  <hi>Amat<expan>
+                        <am>
+                           <g ref="char:abque"/>
+                        </am>
+                        <ex>que</ex>
+                     </expan> vel adhuc, Ipſa ſi Teipſam Ames.</hi>
+               </l>
+               <l>
+                  <hi>Cuncta tamen maeſtum, dices, habet iſta Sepulchrum:</hi>
+               </l>
+               <l>
+                  <hi>Annon Sepulchrum Pectus eſt istud Tuum?</hi>
+               </l>
+               <l>
+                  <hi>Sic, quod Tudefles, in Te ſpectamus. Amoris</hi>
+               </l>
+               <l>
+                  <hi>Solamen hoc eſt grande; dum Quaerit, Frui.</hi>
+               </l>
+               <closer>
+                  <signed>GVIL. CARTVVRIGHT ex Aed. Ch.</signed>
+               </closer>
+            </div>
+            <div xml:lang="lat" type="poem__lamentation">
+               <head>Illuſtriſſimo Domino Vicecomiti BAYNING</head>
+               <lg>
+                  <l>
+                     <hi>QVuantuſ<expan>
+                           <am>
+                              <g ref="char:abque"/>
+                           </am>
+                           <ex>que</ex>
+                        </expan> reſtat Poſteris, Hic eſt Ille</hi>
+                  </l>
+                  <l>
+                     <hi>Alterius Orbis Fama, ſed Stupor Noſtri:</hi>
+                  </l>
+                  <l>
+                     <hi>Vindex Potentum, Purpuram Scholis donans:</hi>
+                  </l>
+                  <l>
+                     <hi>Opum<expan>
+                           <am>
+                              <g ref="char:abque"/>
+                           </am>
+                           <ex>que</ex>
+                        </expan> vindex, Se<expan>
+                           <am>
+                              <g ref="char:abque"/>
+                           </am>
+                           <ex>que</ex>
+                        </expan> nec Opibus tradens:</hi>
+                  </l>
+                  <l>
+                     <hi>Cenſum Domare gnarus, &amp; Frui Partis</hi>
+                  </l>
+                  <l>
+                     <hi>Impertiendo: Gentium videns Ritus,</hi>
+                  </l>
+                  <l>
+                     <hi>Uitiis Sequeſter: Pervigil ſui Custos:</hi>
+                  </l>
+                  <l>
+                     <hi>Peregrè profectus, &amp; tamen Domi ſemper,</hi>
+                  </l>
+                  <l>
+                     <hi>Inter<expan>
+                           <am>
+                              <g ref="char:abque"/>
+                           </am>
+                           <ex>que</ex>
+                        </expan> Mores Exteros Suis vivens:</hi>
+                  </l>
+                  <l>
+                     <hi>Revehens Amorem, quem extulit, Foris Conjux:</hi>
+                  </l>
+                  <l>
+                     <hi>Non Circinalis iunctior Pedi Pes est:</hi>
+                  </l>
+                  <l>
+                     <hi>Dominus, &amp; Omnes allevans, Gravis Nulli:</hi>
+                  </l>
+                  <l>
+                     <hi>Satur viarum Raptus, &amp; ſatur Dotum,</hi>
+                  </l>
+                  <l>
+                     <hi>Aetate juſtâ vegetus, at magis Mente:</hi>
+                  </l>
+                  <l>
+                     <hi>Non plura Merito, at Gloriae dari poſsent.</hi>
+                  </l>
+               </lg>
+               <pb n="43" facs="tcp:14222:27"/>
+               <lg>
+                  <l>
+                     <hi>Cunctis Dolorem Mortuus facit, Viv<gap reason="illegible" resp="#OXF" extent="1+ letters">
+                           <desc>•…</desc>
+                        </gap>
+                     </hi>
+                  </l>
+                  <l>
+                     <hi>Fecit nec Vni. Levior incubes, Tellus:</hi>
+                  </l>
+                  <l>
+                     <hi>Non Ipſe Quenquam, Tu<expan>
+                           <am>
+                              <g ref="char:abque"/>
+                           </am>
+                           <ex>que</ex>
+                        </expan> nec Premas Ipſu<gap reason="illegible" resp="#OXF" extent="1+ letters">
+                           <desc>•…</desc>
+                        </gap>.</hi>
+                  </l>
+               </lg>
+               <closer>
+                  <signed>Sic Parentat GUIL. STOTEVILE ex Aed. Ch.</signed>
+               </closer>
+            </div>
+            <div xml:lang="eng" type="poem__lamentation">
+               <head>To the Right Vertuous, and my much Honoured the Lady PENELOPE BAYNING.</head>
+               <opener>
+                  <salute>Moſt Honour'd Madam,</salute>
+               </opener>
+               <l>TO All, that hath been ſaid, I Eccho am,</l>
+               <l>Though with an hoarſer Voice return the ſame:</l>
+               <l>But His was Clean, and Faire as his Intent,</l>
+               <l>And His Performances His Complement;</l>
+               <l>Who had more Vertue then deriv'd fro<g ref="char:cmbAbbrStroke">̄</g> th'wombe,</l>
+               <l>And more Perfections then are writ on's Tombe;</l>
+               <l>Honour, ſuch as the King could not beſtow,</l>
+               <l>Vnleſſe his Great Example made him ſo;</l>
+               <l>Who brought fro<g ref="char:cmbAbbrStroke">̄</g> Rome, as did his Prince fro<g ref="char:cmbAbbrStroke">̄</g> Spain,</l>
+               <l>Religion, and His very ſelfe againe;</l>
+               <l>Here lies That Lord All This: who had been more,</l>
+               <l>Had time but lent concoction to his Ore.</l>
+               <l>Be witneſſe ô my Griefe then (for I may</l>
+               <l>Now challenge ſomething in Him being Clay)</l>
+               <l>What Thoughts, what Spirits, what Inte<g ref="char:cmbAbbrStroke">̄</g>ts, what Seeds</l>
+               <l>What Acts, what Cou<g ref="char:cmbAbbrStroke">̄</g>ſels, what Deſignes, what Deeds</l>
+               <pb n="42" facs="tcp:14222:28"/>
+               <l>Are blaſted in His fall! But leaſt I may</l>
+               <l>Encreaſe your Night by telling what great Day</l>
+               <l>Would hence have riſen, let me only beare</l>
+               <l>Sad witneſſe, that All, which you have read here,</l>
+               <l>Is modeſt, and His own: and though we find</l>
+               <l>His 'State was Vaſt, 'twas Narrow'r then His Mind:</l>
+               <l>Look then into His Will, not Teſtament,</l>
+               <l>And judge not what He Did, but what He Meant.</l>
+               <closer>
+                  <signed>RICH: CHAWORTH of Ch. Ch.</signed>
+               </closer>
+            </div>
+            <trailer>FINIS</trailer>
+            <pb facs="tcp:14222:28"/>
+         </div>
+      </body>
+   </text>
+</TEI>
